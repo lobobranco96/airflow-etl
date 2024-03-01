@@ -26,7 +26,7 @@ A função extrair_arquivos extrai os nomes dos arquivos CSV presentes em um dir
 - Iteração sobre os arquivos no diretório, identificando arquivos CSV.
 - Apresentação dos arquivos CSV encontrados.
 - Retorno da lista de arquivos CSV.
-- 
+
 Transformar
 A etapa de transformação é realizada pela função transformar_arquivo_csv, que tem como objetivo transformar os arquivos CSV em DataFrames formatados antes de enviá-los para o Amazon S3. Essa função segue os seguintes passos:
 
