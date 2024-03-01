@@ -1,0 +1,57 @@
+[2024-03-01T20:24:25.162+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: extrair_transformar_s3.enviar_para_s3 scheduled__2024-03-01T16:30:00+00:00 [queued]>
+[2024-03-01T20:24:25.183+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: extrair_transformar_s3.enviar_para_s3 scheduled__2024-03-01T16:30:00+00:00 [queued]>
+[2024-03-01T20:24:25.185+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 2
+[2024-03-01T20:24:25.223+0000] {taskinstance.py:2214} INFO - Executing <Task(PythonOperator): enviar_para_s3> on 2024-03-01 16:30:00+00:00
+[2024-03-01T20:24:25.236+0000] {standard_task_runner.py:60} INFO - Started process 2909 to run task
+[2024-03-01T20:24:25.240+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'extrair_transformar_s3', 'enviar_para_s3', 'scheduled__2024-03-01T16:30:00+00:00', '--job-id', '294', '--raw', '--subdir', 'DAGS_FOLDER/extract_transform_load.py', '--cfg-path', '/tmp/tmpom9ygmfl']
+[2024-03-01T20:24:25.242+0000] {standard_task_runner.py:88} INFO - Job 294: Subtask enviar_para_s3
+[2024-03-01T20:24:25.376+0000] {task_command.py:423} INFO - Running <TaskInstance: extrair_transformar_s3.enviar_para_s3 scheduled__2024-03-01T16:30:00+00:00 [running]> on host b088582def97
+[2024-03-01T20:24:25.555+0000] {taskinstance.py:2510} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='extrair_transformar_s3' AIRFLOW_CTX_TASK_ID='enviar_para_s3' AIRFLOW_CTX_EXECUTION_DATE='2024-03-01T16:30:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-03-01T16:30:00+00:00'
+[2024-03-01T20:24:25.703+0000] {logging_mixin.py:188} INFO - Enviando dados para a tabela 'coolers_2024_03_01' no S3...
+[2024-03-01T20:24:25.725+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2024-03-01T20:24:25.726+0000] {connection_wrapper.py:382} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2024-03-01T20:24:27.199+0000] {logging_mixin.py:188} INFO - Dados da tabela 'coolers_2024_03_01' enviados com sucesso para o bucket '***-lobobranco' no caminho 'excel_file/'
+[2024-03-01T20:24:27.199+0000] {logging_mixin.py:188} INFO - Enviando dados para a tabela 'disco_rigido_hd_2024_03_01' no S3...
+[2024-03-01T20:24:27.215+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2024-03-01T20:24:27.216+0000] {connection_wrapper.py:382} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2024-03-01T20:24:28.592+0000] {logging_mixin.py:188} INFO - Dados da tabela 'disco_rigido_hd_2024_03_01' enviados com sucesso para o bucket '***-lobobranco' no caminho 'excel_file/'
+[2024-03-01T20:24:28.592+0000] {logging_mixin.py:188} INFO - Enviando dados para a tabela 'drives_2024_03_01' no S3...
+[2024-03-01T20:24:28.604+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2024-03-01T20:24:28.604+0000] {connection_wrapper.py:382} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2024-03-01T20:24:29.426+0000] {logging_mixin.py:188} INFO - Dados da tabela 'drives_2024_03_01' enviados com sucesso para o bucket '***-lobobranco' no caminho 'excel_file/'
+[2024-03-01T20:24:29.426+0000] {logging_mixin.py:188} INFO - Enviando dados para a tabela 'fontes_2024_03_01' no S3...
+[2024-03-01T20:24:29.438+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2024-03-01T20:24:29.439+0000] {connection_wrapper.py:382} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2024-03-01T20:24:30.645+0000] {logging_mixin.py:188} INFO - Dados da tabela 'fontes_2024_03_01' enviados com sucesso para o bucket '***-lobobranco' no caminho 'excel_file/'
+[2024-03-01T20:24:30.646+0000] {logging_mixin.py:188} INFO - Enviando dados para a tabela 'kit_hardware_2024_03_01' no S3...
+[2024-03-01T20:24:30.660+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2024-03-01T20:24:30.661+0000] {connection_wrapper.py:382} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2024-03-01T20:24:31.812+0000] {logging_mixin.py:188} INFO - Dados da tabela 'kit_hardware_2024_03_01' enviados com sucesso para o bucket '***-lobobranco' no caminho 'excel_file/'
+[2024-03-01T20:24:31.812+0000] {logging_mixin.py:188} INFO - Enviando dados para a tabela 'memoria_ram_2024_03_01' no S3...
+[2024-03-01T20:24:31.834+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2024-03-01T20:24:31.835+0000] {connection_wrapper.py:382} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2024-03-01T20:24:33.529+0000] {logging_mixin.py:188} INFO - Dados da tabela 'memoria_ram_2024_03_01' enviados com sucesso para o bucket '***-lobobranco' no caminho 'excel_file/'
+[2024-03-01T20:24:33.530+0000] {logging_mixin.py:188} INFO - Enviando dados para a tabela 'placa_de_video_vga_2024_03_01' no S3...
+[2024-03-01T20:24:33.546+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2024-03-01T20:24:33.547+0000] {connection_wrapper.py:382} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2024-03-01T20:24:34.716+0000] {logging_mixin.py:188} INFO - Dados da tabela 'placa_de_video_vga_2024_03_01' enviados com sucesso para o bucket '***-lobobranco' no caminho 'excel_file/'
+[2024-03-01T20:24:34.717+0000] {logging_mixin.py:188} INFO - Enviando dados para a tabela 'placas_interfaces_2024_03_01' no S3...
+[2024-03-01T20:24:34.735+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2024-03-01T20:24:34.736+0000] {connection_wrapper.py:382} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2024-03-01T20:24:35.573+0000] {logging_mixin.py:188} INFO - Dados da tabela 'placas_interfaces_2024_03_01' enviados com sucesso para o bucket '***-lobobranco' no caminho 'excel_file/'
+[2024-03-01T20:24:35.574+0000] {logging_mixin.py:188} INFO - Enviando dados para a tabela 'placas_mae_2024_03_01' no S3...
+[2024-03-01T20:24:35.586+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2024-03-01T20:24:35.587+0000] {connection_wrapper.py:382} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2024-03-01T20:24:36.752+0000] {logging_mixin.py:188} INFO - Dados da tabela 'placas_mae_2024_03_01' enviados com sucesso para o bucket '***-lobobranco' no caminho 'excel_file/'
+[2024-03-01T20:24:36.753+0000] {logging_mixin.py:188} INFO - Enviando dados para a tabela 'processadores_2024_03_01' no S3...
+[2024-03-01T20:24:36.766+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2024-03-01T20:24:36.767+0000] {connection_wrapper.py:382} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2024-03-01T20:24:37.993+0000] {logging_mixin.py:188} INFO - Dados da tabela 'processadores_2024_03_01' enviados com sucesso para o bucket '***-lobobranco' no caminho 'excel_file/'
+[2024-03-01T20:24:37.995+0000] {logging_mixin.py:188} INFO - Enviando dados para a tabela 'ssd_2_5_2024_03_01' no S3...
+[2024-03-01T20:24:38.012+0000] {base.py:83} INFO - Using connection ID 'aws_default' for task execution.
+[2024-03-01T20:24:38.013+0000] {connection_wrapper.py:382} INFO - AWS Connection (conn_id='aws_default', conn_type='aws') credentials retrieved from login and password.
+[2024-03-01T20:24:39.067+0000] {logging_mixin.py:188} INFO - Dados da tabela 'ssd_2_5_2024_03_01' enviados com sucesso para o bucket '***-lobobranco' no caminho 'excel_file/'
+[2024-03-01T20:24:39.071+0000] {python.py:202} INFO - Done. Returned value was: None
+[2024-03-01T20:24:39.086+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=extrair_transformar_s3, task_id=enviar_para_s3, execution_date=20240301T163000, start_date=20240301T202425, end_date=20240301T202439
+[2024-03-01T20:24:39.138+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-03-01T20:24:39.154+0000] {taskinstance.py:3309} INFO - 0 downstream tasks scheduled from follow-on schedule check

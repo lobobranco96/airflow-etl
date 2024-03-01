@@ -1,0 +1,864 @@
+ID;Descrição;Preço em R$
+0;Placa de Vídeo RX 6600 CLD 8G ASRock AMD Radeon, 8GB, GDDR6  - 90-GA2RZZ-00UANF;R$ 1.349,99
+1;Placa de Vídeo RTX 4060 VENTUS 2x Black OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing;R$ 2.029,99
+2;Placa de Vídeo RTX 3060 Ventus 2X MSI NVIDIA GeForce,  12GB GDDR6, DLSS, Ray Tracing - RTX 3060 Ventus 2X 12G OC;R$ 1.729,99
+3;Placa de Vídeo RTX 4060 Ti VENTUS 3X 8G OC MSI NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing;R$ 2.499,99
+4;Placa de Vídeo RX 7600 GAMING OC 8G AMD Radeon Gigabyte, 8GB GDDR6, 128bits, RGB - GV-R76GAMING OC-8GD;R$ 1.799,99
+5;Placa de Vídeo RX 6650 XT MECH 2X 8G OC MSI AMD Radeon, 8GB GDDR6, Free-Sync;R$ 1.519,99
+6;Placa de Vídeo RTX 4060 1-Click OC 2X Galax NVIDIA GeForce, 8GB GDDR6, DLSS, G-Sync - 46NSL8MD8LOC;R$ 2.099,99
+7;Placa de Vídeo Gigabyte Radeon RX 6600 EAGLE AMD, 8GB GDDR6, Preto - GV-R66EAGLE-8GD;R$ 1.499,99
+8;Placa de Vídeo RTX 4060 EX 1-Click OC Galax NVIDIA GeForce, 8GB GDDR6, ARGB, DLSS, Ray Tracing - 46NSL8MD8MEX;R$ 2.099,99
+9;Placa de Vídeo RTX 2060S Duex NVIDIA GeForce, 8GB GDDR6, 256 Bits, Double Fan - DXRTX2060S;R$ 1.319,99
+10;Placa de Vídeo RTX 4060 EAGLE OC Gigabyte NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing - GV-N4060EAGLE OC-8GD;R$ 1.999,99
+11;Placa de Vídeo GTX 1650 D6 VENTUS XS OCV1 MSI NVIDIA GeForce, 4GB, GDDR6;R$ 849,99
+12;Placa de Vídeo RX 6600 V2 ASUS Dual AMD Radeon, 8GB GDDR6  - 90YV0GP2-M0NA00;R$ 1.369,99
+13;Placa de Vídeo Galax NVIDIA GeForce GTX 1650 EX Plus (1-Click OC), 4GB, GDDR6 - 65SQL8DS93E1;R$ 849,99
+14;Placa de Video RTX 3060 Dual OC Palit NVIDIA GeForce, 12GB GDDR6, RGB, 192bit, G-Sync, Ray Tracing, DLSS - NE63060T19K9-190AD;R$ 1.699,99
+15;Placa de Vídeo RTX 2060 Duex NVIDIA GeForce, GDDR6  - RTX2060-6GD6;R$ 1.219,99
+16;Placa de Vídeo RTX 4060 TI XLR8 Gaming Verto Epic-x PNY NVIDIA GeForce, 8GB GDDR6, ARGB, DLSS, Ray Tracing, G-Sync - VCG4060T8TFXXPB1;R$ 2.499,99
+17;Placa de Vídeo RTX 4060 Dual OC 8G White NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - 90YV0JC2-M0NA00;R$ 1.999,99
+18;Placa de Vídeo RTX 4060 Ti OC Edition Asus TUF Gaming NVIDIA GeForce, 8 GB GDDR6, ARGB, DLSS - TUF-RTX4060TI-O8G-GAMING;R$ 2.899,99
+19;Placa de Vídeo Gigabyte RX 6500 XT EAGLE AMD , 4GB GDDR6 - GV-R65XTEAGLE-4GD - GV-R65XTEAGLE-4GD;R$ 949,99
+20;Placa de Vídeo Gigabyte RX 6400 EAGLE AMD, 4GB GDDR6 - GV-R64EAGLE-4GD - GV-R64EAGLE-4GD;R$ 799,99
+21;Placa de Vídeo RTX 4060 Ti Click OC Galax NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing  - 46ISL8MD8COC;R$ 2.499,99
+22;Placa de Vídeo RX 7600 Challenger ASRock AMD Radeon,  8GB GDDR6 - 90-GA41ZZ-00UANF;R$ 1.899,99
+23;Placa De Vídeo RTX 4060 EAGLE OC Gigabyte Nvidia Geforce, 8GB, GDDR6, 128 BITs, DISS, Ray Tracing - GV-N4060EAGLE;R$ 2.099,00
+24;Placa de Vídeo RTX 4060 TI Ventus 2X Black 8G OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync;R$ 2.579,99
+25;Placa de Vídeo RTX 4060 TI DUAL O8G White ASUS NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Trancing, G-Sync - 90YV0J42-M0NA00;R$ 2.599,99
+26;Placa de Vídeo RX 550 Asus Phoenix AMD Radeon, 4GB, GDDR5 - PH-RX550-4G-EVO;R$ 519,99
+27;Placa de Vídeo Galax NVIDIA GeForce RTX 3060, 12GB GDDR6, LHR, 1-Click OC, 15GBps, Ray Tracing, DLSS - 36NOL7MD1VOC;R$ 1.999,00
+28;Placa de Vídeo RTX 4060 Gaming MSI X NV Edition 8G NVIDIA GeForce, 8GB GDDR6, G-Sync, DLSS, Ray Tracing;R$ 1.939,99
+29;Placa de Vídeo RTX 4070 1-Click OC 2X Black PCI-E Galax NVIDIA GeForce, 12GB GDDR6X, DLSS, G-Sync, Ray Tracing, 192 bits - 47NOM7MD8DDF;R$ 3.999,99
+30;Placa de Vídeo RTX 4060 1-Click OC 1X Galax NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Trancing, G-Sync;R$ 1.699,99
+31;Placa de Vídeo GTX 1660 Super NB V2-V Colorful, GeForce NVIDIA, 6GB, GDDR6, 192 Bits;R$ 1.253,00
+32;Placa De Vídeo BRX, AMD RX 580, 8GB, GDDR 5, 256Bit, VGA;R$ 697,00
+33;Placa De Vídeo Galax RTX 4060 1-click Oc 2x, 8GB, GDDR6, 128bits - 46nsl8md8loc;R$ 1.749,90
+34;Placa de Vídeo RTX 4070 Ti Ventus MSI NVIDIA GeForce, 12 GB GDDR6X, DLSS 3, Ray Tracing  - GeForce RTX 4070 Ti VENTUS 3X 12G OC;R$ 4.999,99
+35;Placa de Vídeo Galax NVIDIA GeForce GT 210, 1GB DDR3, 64 Bits - 21GGF4HI00NP;R$ 133,52
+36;Placa de Vídeo RTX 4060 TI Asus TUF Gaming NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - 90YV0J51-M0NA00;R$ 2.799,99
+37;Placa de Vídeo RTX 4070 Aero OC 12G Gigabyte NVIDIA GeForce, 12GB GDDR6X, 192bits, RGB, DLSS, Ray Tracing - GV-N4070AERO OC-12GD;R$ 4.199,99
+38;Kit Adaptador Cooler Master de Placa de Vídeo Vertical Universal V3, Pcie 4.0, com Cabo Riser 4.0 Incluso, Preto e Cinza - MCA-U000R-KFVK03;R$ 499,99
+39;Placa de Vídeo RTX 4070 TI Gaming X Slim 12G MSI NVIDIA GeForce, 12GB GDDR6X, G-Sync, DLSS, Ray Tracing;R$ 5.199,99
+40;Placa de Vídeo RX 7900 XTX Sapphire AMD, 24 GB GDDR6 - 11322-02-20G;R$ 6.499,99
+41;Placa de Vídeo RTX 4080 TUF OC Edition Asus NVIDIA GeForce, 16 GB GDDR6X, ARGB, DLSS, Ray Tracing - TUF-RTX4080-O16G-GAMING;R$ 7.999,99
+42;Placa de Video RTX 4060 Dual Palit NVIDIA GeForce, 8GB GDDR6, RGB, 128bit, G-Sync, Ray Tracing, DLSS - NE64060019P1-1070D;R$ 1.899,99
+43;Placa de Vídeo RTX 4090 Asus NVIDIA TUF Gaming GeForce Edition, 24GB GDDR6X, DLSS, Ray Tracing - TUF-RTX4090-O24G-GAMING;R$ 12.899,99
+44;Placa de Vídeo VGA Galax NVIDIA GeForce GT 1030 2GB GDDR5 64Bits - 30NPH4HVQ4ST;R$ 519,99
+45;Placa de Vídeo GT610 PCYes NVIDIA GeForce, 2GB DDR3, 64 Bits, Low Profile - PVG6102GBR364LP;R$ 169,99
+46;Kit Adaptador Cooler Master de Placa de Vídeo Vertical Universal V3, Pcie 4.0, com Cabo Riser 4.0 Incluso, branco - MCA-U000R-WFVK03;R$ 449,99
+47;Placa de Vídeo RTX 4070 O12G White NVIDIA GeForce, 12GB GDDR6X, DLSS, Ray Tracing, G-Sync - 90YV0IZ4-M0NA00;R$ 3.999,99
+48;Placa de Vídeo RTX 4070 Ti TUF Gaming Asus NVIDIA GeForce, 12 GB GDDR6X, ARGB,  Ray Tracing - TUF-RTX4070TI-O12G-GAMING;R$ 5.899,99
+49;Placa de Vídeo Afox AMD Radeon RX 560, 4GB GDDR5, 128 Bits - AFRX560-4096D5H4-V2;R$ 499,90
+50;Placa de Vídeo Rise Mode RTX 2060 NVIDIA, 6GB GDDR6 - RM-PV-RTX2060-6G;R$ 1.249,99
+51;Suporte para GPU Cooler Master, ARGB, 510mm, Vidro Temperado, 20.1 - MCA-U000R-GSBTG-00;R$ 129,99
+52;Placa De Vídeo RTX 3050 Ventus 2x Xs, Msi Nvidia Geforce, 8GB Oc, GDDR6, 128 Bits - 912-V809-4266;R$ 1.749,00
+53;Placa de Vídeo ASRock Intel Arc A580 Challenger 8G OC, 8GB GDDR6 - 90-GA3JZZ-00UANF;R$ 1.199,99
+54;Placa de Vídeo RTX 4060 OC Edition Dual ASUS NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing - DUAL-RTX4060-O8G;R$ 2.299,99
+55;Placa de Vídeo Quadro T400 PNY NVIDIA, 4GB, GDDR6, PCIe 3.0 - VCNT4004GB-PB;R$ 1.299,99
+56;Placa de Vídeo Pcyes NVIDIA GeForce G 210, 1 GB DDR3 - PVG2101GBR364LP;R$ 159,99
+57;Placa De Vídeo Galax RTX 4060 Ex 1-click Oc, 8GB, GDDR6, 128bit, Dlss3, Raytracing, 46nsl8md8mex;R$ 2.069,99
+58;Placa de Vídeo RX 7700 XT Steel Legend 12G OC ASRock AMD Radeon, 12GB, GDDR6,AMD RDNA 3, Ray Tracing - 90-GA4PZZ-00UANF;R$ 3.199,99
+59;Placa de Vídeo Afox NVIDIA GeForce GT240, 1024 MB, PCI Express 2.0, VGA, HDMI, DVI;R$ 119,00
+60;Placa de Vídeo RTX 3060 VENTUS 2X 8G OC MSI GeForce NVIDIA, 8GB GDDR6, DLSS, G-Sync, Ray Trancing;R$ 1.999,99
+61;Placa de Vídeo MSI, NVIDIA GeForce GTX 1650 D6 Ventus XS OCV1, 4GB, GDDR6, 128 Bits - 912-V809-4057;R$ 848,00
+62;Placa de Vídeo RTX 4060 TI VENTUS 3X 16G OC MSI NVIDIA GeForce;R$ 3.599,99
+63;Placa de Vídeo Duex NVIDIA GeForce GTX 1060, 3GB GDDR5, 192 Bits - Z-DX-GTX1060-3GD5;R$ 789,90
+64;Placa de Vídeo RTX 4060 Gaming X MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing;R$ 1.799,99
+65;Placa de Vídeo RX 7900 XTX Phantom Gaming ASRock AMD, 24 GB GDDR6, ARGB - 90-GA3YZZ-00UANF;R$ 6.599,99
+66;Placa de Vídeo X 7800 XT GAMING PULSE Sapphire AMD RADEON, 16GB GDDR6 DUAL HDMI - 11330-02-20G;R$ 3.899,99
+67;Placa de Vídeo RTX 4070 1-Click OC 3X Black PCI-E Galax NVIDIA GeForce, 12GB GDDR6X, DLSS, G-Sync, Ray Tracing, 192 bits - 47NOM7MD7QOC;R$ 4.199,99
+68;Placa de Vídeo Afox NVIDIA GeForce GT740, 4GB GDDR5, 128 Bits, HDMI, DVI, VGA - AF740-4096D5H2-V2;R$ 387,91
+69;Placa De Vídeo RTX 4060TI 1 Click Oc, Galax Nvidia Geforce, 8GB, GDDR6, 128 Bits - 46ISL8MD8COC;R$ 2.449,90
+70;Placa de Vídeo Colorful, NVIDIA GeForce GT 710, 2GB, GDDR3, 64 Bits;R$ 206,80
+71;Placa De Vídeo Duex Nvidia Gt210, 512MB, DDR3 64 Bits - G210lp-512md3;R$ 114,86
+72;Placa de Vídeo RTX 4060 TI Rog-Strix O8G Gaming NVIDIA GeForce, 8GB GDDR6, ARGB, DLSS, Ray Tracing, G-Sync - ROG-STRIX-RTX4060TI-O8G-GAMING;R$ 3.199,99
+73;Placa de Vídeo RTX 4070 Ti ROG Strix Gaming Asus NVIDIA GeForce, 12 GB GDDR6X, ARGB, Ray Tracing  - ROG-STRIX-RTX4070TI-O12G-GAMING;R$ 6.399,99
+74;Placa de Vídeo R5 230 Low Profile PCYes, 2GB DDR3, 64 Bits - PA230DR364LP;R$ 229,99
+75;Placa de Vídeo RTX 4060 Ti OC Edition Asus NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing - DUAL-RTX4060TI-O8G;R$ 2.899,99
+76;Placa de Vídeo RTX 4070 Windforce OC 12G Gigabyte NVIDIA GeForce, 12GB GDDR6X, 192bits, DLSS, Ray Tracing - GV-N4070WF3OC-12GD;R$ 3.999,99
+77;Placa de Vídeo RX 7600 XT AMD Challenger 16G OC, 16 GB GDDR6 - RX7600X CL 16GO;R$ 2.399,99
+78;Placa de vídeo Radeon Rx 550, 4GB, 128bits, Pcwinmax  GDDR5 - Rx550-4gd5;R$ 564,66
+79;Placa de Vídeo GTX 1630 EX Galax Nvidia GeForce, 4 GB GDDR6 - 63NQL4HP66EX;R$ 899,99
+80;Placa de Vídeo RTX 4080 ROG Strix Edition Asus NVIDIA GeForce, 16GB GDDR6X, ARGB, DLSS, Ray Tracing, Branco - ROG-STRIX-RTX4080-O16G-WHITE;R$ 8.999,99
+81;Suporte Para Placa De Vídeo Vertical Redragon Gcp03, Preto;R$ 94,50
+82;Placa de Vídeo Asus AMD Radeon RX550 Phoenix, 4GB DDR5, 128 Bits - PH-RX550-4G-EVO;R$ 499,00
+83;Placa De Vídeo Pcyes Nvidia Geforce G 210, 1GB, DDR3, 64Bits - Pvg2101gbr364lp;R$ 139,90
+84;Placa de Vídeo Afox AMD Radeon RX 550, 4GB GDDR5, 128 Bits - AFRX550-4096D5H4-V6;R$ 459,90
+85;Placa de Vídeo Intel Arc A770 Phantom Gaming AsRock, 16GB GDDR6, RGB, Polychrome SYNC - 90-GA4KZZ-00UANF;R$ 2.399,99
+86;Placa de vídeo RTX 4070 Ti Super SG Galax NVIDIA GeForce, 16GB, GDDR6X, DLSS, Ray Tracing - 47UZM6MD6MER;R$ 6.099,99
+87;Placa de Vídeo RTX 4060 Ti GAMING X 8G MSI NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing;R$ 2.799,99
+88;Placa de Vídeo RX 7800 XT Hellhound PowerColor AMD Radeon, 16GB GDDR6, Ray Tracing - RX7800XT 16G-L/OC;R$ 3.799,99
+89;Placa de Vídeo RX 7900 XTX Taichi ASRock AMD Radeon, White 24G OC - RX7900XTX TCW 24GO;R$ 6.999,99
+90;Placa De Vídeo Powercolor, Red Devil Amd Radeon™ Rx 6900 Xt Ultimate 16GB Gddr6 Axrx 6900 Xtu 16GBd6-3dhe/oc.;R$ 3.699,00
+91;Placa de Vídeo Gigabyte Geforce RTX 4060 Ti, Windforce Oc, 8GB GDDR6, 128 Bits - Gv-n406twf2oc-8gd;R$ 2.498,00
+92;Placa de Vídeo Colorful NVIDIA GeForce GT 730K, 4GB GDDR3, V2-V;R$ 315,92
+93;Suporte Para Placa De Vídeo Ntc R10, Branco - R10WHT;R$ 24,75
+94;Placa de Vídeo Duex NVIDIA GeForce GTX 750 TI, 4GB GDDR5, 128 Bits - DX GTX750TI-4GD5;R$ 526,16
+95;Placa de Vídeo Galax NVIDIA GeForce RTX 3050 EX OC, 8GB GDDR6, LHR, 1-Click, 128 Bits - 35NSL8MD6YEX;R$ 1.749,00
+96;Placa de Vídeo Galax NVIDIA GeForce GTX 1650, 4GB GDDR6, EX Plus, 1-Click OC, 128 Bits - 65SQL8DS93E1;R$ 949,05
+97;Placa de Vídeo RX 7900 XT Phantom Gaming ASRock AMD, 20 GB GDDR6, ARGB - 90-GA3XZZ-00UANF;R$ 5.799,99
+98;Placa de Vídeo Afox NVIDIA GeForce GTX 750, 4GB DDR5, 128 Bits - AF750-4096D5L4;R$ 537,79
+99;Placa de Vídeo RTX4090 P24G Gaming Rog Matrix ASUS NVIDIA GeForce, 24GB GDDR6X,  DLSS, Ray Trancing - 90YV0ID7-M0NM00;R$ 23.999,99
+100;Placa De Vídeo RTX 2060 Golden Memory Nvidia Geforce Super, 8GB, GDDR6, 256Bits, Directx 12;R$ 1.799,00
+101;Placa De Vídeo Storm-z, Gt730, 4GB, 128 Bits, Ddr3;R$ 237,91
+102;Placa de Vídeo RTX 4070 Super ASUS TUF O12G Gaming NVIDIA GeForce, 12GB GDDR6X, DLSS, Ray Tracing, - TUF-RTX4070S-O12G-GAMING;R$ 5.189,99
+103;Placa de Vídeo Intel Arc A380 Low Profile 6G AsRock, 6GB GDDR6, Dr. MOS - 90-GA46ZZ-00UANF;R$ 929,99
+104;Placa de Vídeo RTX 4070 Super DUAL O12G ASUS NVIDIA GeForce, 12GB GDDR6X, DLSS, Ray Tracing - DUAL-RTX4070S-O12G;R$ 4.599,99
+105;Placa de Vídeo Afox AMD Radeon R5 230, 1GB DDR3, 64 Bits, LP Heatsink, HDMI, DVI, VGA - AFR5230-1024D;R$ 165,01
+106;Placa de Vídeo Quadro RTX A2000 PNY NVIDIA, 12GB GDDR6, Ray Tracing - VCNRTXA200012GB-PB;R$ 4.499,99
+107;Placa De Vídeo GT 610 Pcyes Nvidia Geforce, 2GB, DDR3, 64 BITSs, (Low Profile) - PVG6102GBR364LP;R$ 184,41
+108;Placa de Vídeo RX 7900 XTX Vapor-X Sapphire, Nitro + AMD, 24 GB GDDR6 - 11322-01-40G;R$ 7.499,99
+109;Placa de Vídeo Afox NVIDIA GeForce GT210, 1GB DDR3, 64 Bits;R$ 166,41
+110;Placa De Vídeo Gt610,DDR3, 2GB, VGA, HDMI, Nvidia Pcie X16 2.0;R$ 166,25
+111;Cabo Extensor PCI Express Rise Mode Riser - RM-EX-PV;R$ 149,99
+112;Placa de Vídeo Afox AMD Radeon R5 220, 2GB DDR3, 64 Bits - AFR5220-2048D3L9-V2;R$ 167,91
+113;Suporte Para Placa De Vídeo Vertical Redragon Gcp03w, Branco;R$ 93,50
+114;Placa De Video Colorful, Igame Rtx 4070, Ti Ultra W Oc-v;R$ 5.039,10
+115;Placa De Vídeo RTX 4070 TI Ventus 3x Trio Oc, MSI Nvidia, 12GB, DDR6, 192 Bits - 912-V513001;R$ 4.997,91
+116;Placa de Vídeo MSI, NVIDIA GeForce RTX 3060 Ventus, 12GB GDDR6, LHR, Suporte HDCP, DirectX 12, API - 912-V397-483;R$ 2.502,28
+117;Placa De Vídeo Nvidia Duex Geforce GT 610, 1GB, GDDR3, 64 Bits;R$ 153,55
+118;Placa de Vídeo Nvidia Duex GT730, 4GB DDR3, 128 Bits, Low Profile, HDMI/DVI/VGA - GT730LP-4GD3;R$ 316,26
+119;Placa De Video AMD Hp Radeon Pro W5500, 8GB -hpm1- L81469-001;R$ 1.338,75
+120;Suporte Para Placa De Vídeo Ntc, R10, Preto - R10blk;R$ 26,36
+121;Placa de Vídeo Quadro RTX A4000 PNY NVIDIA, 16GB, GDDR6 Com ECC, Ray Tracing - VCNRTXA4000-PB;R$ 6.699,99
+122;Placa de Vídeo Colorful NVIDIA GeForce GTX 1630, 4GB GDDR6 - NB 4GD6-V;R$ 1.319,90
+123;Placa de vídeo RTX 4070 Ti Super EX Galax NVIDIA GeForce, 16GB GDDR6X - 47UZM6MD9BUP;R$ 6.199,99
+124;Placa de Vídeo RTX 4060 TI Rog-Strix 8G Gaming NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - 90YV0J53-M0NA00;R$ 3.299,99
+125;Placa de Vídeo RTX 4070 TI Super ASUS TUF O16G Gaming, 16GB GDDR6X, DLSS, Ray Tracing -  90YV0KF0-M0NA00;R$ 6.599,99
+126;Placa De Video Msi Nvidia Gtx 1650, 4GB, D6 Ventus Xs Ocv3, GDDR6, HDMI/dp - 912-v812-003;R$ 938,50
+127;Placa de Vídeo Intel Arc A380 ASRock Challenger ITX 6GB - 90-GA3KZZ-00UANF;R$ 899,99
+128;Placa de Vídeo Galax RTX 4070ti Ex Gamer V2, 12GB, GDDR6x, 192bits, 47iom7md7adt;R$ 5.549,99
+129;Placa de Vídeo RTX 4080 Edition Asus ROG Strix NVIDIA GeForce,16 GB GDDR6X, ARGB, DLSS, Ray Tracing - ROG-STRIX-RTX4080-O16G-GAMING;R$ 8.499,99
+130;Placa de Vídeo PowerColor AMD Radeon RX 550, 4GB GDDR5, 128 Bits - 4GBD5-HLE;R$ 499,00
+131;Placa de Vídeo RX 580 PCYes Dual Fan, 8GB GDDR5, 256Bits 2048SP, Graffiti Series - PVRX5808GBDF;R$ 959,99
+132;Placa de Vídeo RTX 4070 Ti Super ASUS ROG Strix OC Edition NVIDIA GeForce, 16GB GDDR6X, DLSS3 - ROG-STRIX-RTX4070TIS-O16G-GAMING;R$ 7.299,99
+133;Placa-Mãe Aitek H61S Intel LGA 1155, Micro ATX, DDR3, GA1155 PCI Express, USB2.0;R$ 190,00
+134;Placa De Vídeo Galax Nvidia Geforce, RTX 4070 1 Click Oc, 12GB, GDDR6x, 192 Bits - 47nom7md8ddf;R$ 4.179,90
+135;Placa De Vídeo Galax Ex, Nvidia Geforce RTX 4060TI, 8GB GDDR6, 128bits - 46isl8md8aex;R$ 2.499,90
+136;Placa de Vídeo RTX 4070ti, 12GB, White, Ex Gamer V2, G6x, 192bits, Galax - 47iom7md8kwe;R$ 5.499,99
+137;Placa de Vídeo MSI NVIDIA GeForce GTX 1050 TI 4GT OC, 4GB, Até 3 Monitores - 912-V809-2272;R$ 1.161,09
+138;Placa de Vídeo Colorful NVIDIA GeForce GT 1030, 2GB GDDR4, V6-V, 64 Bits;R$ 421,52
+139;Placa de Vídeo Afox AMD Radeon RX 560, 4GB DDR5, 128 Bits, ATX Dual FAN, HDMI, DVI - AFRX560-4096D5H4;R$ 499,90
+140;Placa de Vídeo RX 7900 XTX Red Devil PowerColor AMD Radeon, 24 GB GDDR6, ARGB, Ray Tracing - RX7900XTX 24G-E/OC;R$ 6.999,99
+141;Placa de Vídeo RTX 4070 Super Dual O12G White ASUS NVIDIA GeForce, 12GB GDDR6X, DLSS  Ray Tracing - DUAL-RTX4070S-O12G-WHITE;R$ 4.649,99
+142;Placa De Vídeo Duex Nvidia Geforce Gt 610 1Gb, Gddr3 64 Bits - Gt610;R$ 150,96
+143;Placa De Vídeo RTX 4070 Super Dual Asus Geforce, 12GB, GDDR6x;R$ 9.200,00
+144;Suporte Para Placa De Vídeo Ntc H21, Branco - H21WHT;R$ 38,13
+145;Placa de Vídeo Galax NVIDIA GeForce GTX 1660 Super, 6GB GDDR6, 192 Bits - 60SRL7DSY91S;R$ 1.549,90
+146;Placa de vídeo RTX 4070 Super 1-Click OC 2X Galax NVIDIA GeForce, 12GB GDDR6X, DLSS, Ray Trancing - 4895147155517;R$ 4.299,99
+147;Placa de Vídeo Gainward NVIDIA GeForce RTX 3060 Ghost 190AU, 12GB GDDR6, 192 Bits, Dual FAN - NE63060019K9;R$ 1.958,90
+148;Placa De Vídeo Afox, Nvidia Geforce GTX 750 4GB GDDR5 128 Bits, Single Fan, DVI, VGA, HDMI - Af750-4096d5h6;R$ 502,06
+149;Placa De Vídeo RTX 4070 NB EX-V Colorful, Geforce Nvidia, 12GB, GDDR6x;R$ 4.139,10
+150;Placa de Vídeo RTX 4080 ROG Strix Asus NVIDIA GeForce, 16 GB GDDR6X, ARGB, DLSS, Ray Tracing - ROG-STRIX-RTX4080-16G-GAMING;R$ 8.999,99
+151;Placa De Vídeo Pcyes Radeon R5 220, 2GB, GDDR3, 64 BITS, Low Profile - PVR52202GBR364;R$ 235,64
+152;Placa de Vídeo PCYES, AMD RX550, 4GB RAM, Open GL 4.6, DP+HDMI+DVI, Windows e Linux;R$ 599,90
+153;Placa de Vídeo Duex NVIDIA GeForce G 210, 1GB DDR3 - G210LP-1GD3;R$ 130,06
+154;Placa de Vídeo RX 6600 Graffiti Series, 8GB GDDR6, 128 Bits - PJRX6600GR68GBGS;R$ 1.199,99
+155;Placa de Vídeo RTX 4070Ti ROG Strix Asus NVIDIA GeForce, 12 GB GDDR6X, ARGB, DLSS 3, Ray Tracing, Preto - ROG-STRIX-RTX4070TI-12G-GAMING;R$ 7.199,99
+156;Cabo Extensor Thermaltake TT Gaming Riser, 20cm, Cable PCI-E 3.0, Preto - AC053CN1OTNC1.;R$ 197,12
+157;Placa De Vídeo AMD Pcyes Radeon Rx 570, 4GB, DDR5, 128bits - Pvrx570lp4gbdf;R$ 919,68
+158;Placa De Vídeo Pcyes Nvidia Geforce GT 740, 4GB, GDDR5, 128Bits, Single Fan - Pvgt7404gbr5128;R$ 523,71
+159;Suporte Para Placa De Vídeo Ntc H21, Preto - H21BLK;R$ 38,13
+160;Placa de Vídeo RTX 4060 TI OC PNY NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - VCG4060T8TFXXPB1-O;R$ 2.499,99
+161;Placa de Vídeo RTX 4080 Eagle OC Gigabyte NVIDIA GeForce, 16 GB GDDR6X, DLSS, Ray Tracing - GV-N4080EAGLE OC-16GD;R$ 8.299,99
+162;Placa De Vídeo Aitek GT210, 1GB, DDR3, VGA/HDMI, 500MHz;R$ 135,70
+163;Placa de Vídeo RTX 4070 Ti Gigabyte NVIDIA GeForce, 12 GB GDDR6X, DLSS 3, Ray Tracing - GV-N407TEAGLE OC-12GD;R$ 6.199,99
+164;Suporte Para Placa De Vídeo Ntc R15, Branco - R15WHT;R$ 32,11
+165;Placa de Vídeo PCYes AMD Radeon R5 230, 2GB DDR3, 64 Bits - PA230DR364LP;R$ 203,58
+166;Placa de Vídeo Galax NVIDIA GeForce GT710, 2GB DDR3, 64 Bits - 71GPF4HI00GX;R$ 306,12
+167;Placa De Vídeo Pcyes Nvidia, Geforce GTX 750 Ti, GDDR5 2GB, 128bits, Dual Fan - Pj750tir5df 3568;R$ 644,31
+168;Placa de Vídeo Colorful NVIDIA GeForce RTX 4070 Ti NB EX-V, 12GB GDDR6X, Ray Tracing de 3ª Geração, DLSS 3, G-Sync, 285W TDP, 3xDP + 1xHDMI;R$ 5.039,10
+169;Cabo Adaptador Energia 6pin Para 8pin Pci-e Extensor Divisor, Conector Splitter, Adaptador Y, Amarelo - Placa De Vídeo;R$ 23,90
+170;Placa De Vídeo BRX AMD R5 240, 2GB, GDDR 3, 128Bit;R$ 269,90
+171;Placa De Vídeo RTX 4080 Black ST Galax Nvidia, 16GB GDDR6X, 256 Bits, 3 DP, HDMI 2.1, Dlss3 - 48nzm6md6lts;R$ 7.599,99
+172;Placa de Vídeo RTX 4070 Ti Asus TUF Gaming NVIDIA GeForce, 12 GB GDDR6X, ARGB, DLSS, Ray Tracing - TUF-RTX4070TI-12G-GAMING;R$ 5.799,99
+173;Placa De Vídeo RTX 4070 TI Super Oc Asus Tuf Gaming Geforce, 16GB, GDDR6x;R$ 7.360,00
+174;Placa De Vídeo RTX 4060 Gaming OC, Gigabyte Nvidia Geforce, 8GB, GDDR6, DLSS, Ray Tracing, Reflex, Studio, GV-N4060;R$ 2.199,00
+175;Placa De Vídeo Galax NVIDIA GeForce RTX 4070, 12GB, GDDR6X, Ex Gamer, White - 47NOM7MD7KWH;R$ 4.599,90
+176;Placa de Vídeo PCYes NVIDIA GeForce G210, 1GB DDR3, HDMI/VGA/DVI - PA210G6401D3LP;R$ 188,90
+177;Placa de Vídeo RTX 4060 TI EX 1-Click OC Galax NVIDIA GeForce, 16GB GDDR6, DLSS, G-Sync, Ray Tracing - 46IZL8MD8YEX;R$ 4.299,99
+178;Placa de Vídeo GT 710 Passive Galax NVIDIA GeForce, 2GB, DDR3 - 71GPF4HI00GX;R$ 289,99
+179;Placa de Vídeo PCYes NVIDIA GeForce GTX 1650 Super, 4GB GDDR6, 128 Bits;R$ 1.372,69
+180;Placa de Vídeo Quadro RTX A5000 PNY Nvidia, 24GB GDDR6, Ray Tracing - VCNRTXA5000-PB;R$ 14.499,99
+181;Placa De Vídeo Pny GeForce NVIDIA RTX3060, 12GB, GDDR6, 192b, Verto - Vcg306012dfbpb1;R$ 2.299,00
+182;Placa de Vídeo Afox NVIDIA GeForce GT220, 1024 MB DDR3, 128 Bits, Low Profile, HDMI, DVI, VGA - AF220-1024D3L2;R$ 238,90
+183;Placa De Vídeo Galax Nvidia RTX 4070 Ti 12GB Ex Gamer GDDR6x 192bits - 47iom7md7aeg;R$ 8.000,00
+184;Placa de Vídeo PCYes AMD Radeon RX 550, 4GB, PCI Express, Freesync - PJRX550DR5128B;R$ 599,90
+185;Placa de vídeo MSI NVIDIA RTX 4070 GDDR6x Ventus 2X, OC, Ray Tracing, 192 Bits - 912-v513-063;R$ 3.832,63
+186;Placa De Vídeo GT 1030 Colorful NVIDIA GeForce, 2GB, GDDR5, 64 Bits;R$ 439,12
+187;Placa De Vídeo RTX 4070 Ultra W OC V2-V Colorful Igame, Geforce Nvidia, 12GB, GDDR6x;R$ 4.139,10
+188;Placa De Vídeo Storm-z Gt210 1GB 64bits Ddr3;R$ 149,90
+189;Placa de Vídeo Quadro T1000 PNY NVIDIA, 8GB, GDDR6, PCIe 3.0 - VCNT10008GB-PB;R$ 2.649,99
+190;Placa de Vídeo Asus NVIDIA GeForce GTX1650, 4GB DDR6, Displayport, DVI, HDMI - 90YV0EZ0-M0NA00;R$ 2.099,00
+191;Placa De Vídeo Rtx 4090, 24GB, GDDR6x, 384bits Gaming Slim Msi - 912-v510-262;R$ 16.695,20
+192;Placa De Vídeo Msi, Nvidia, Geforce RTX 4080, 16GB, 256 Bit, GDDR6x;R$ 11.033,99
+193;Placa de Vídeo Power Color Fighter AMD Radeon RX 6500 XT, 4 GB GDDR6, Ray Tracing - AXRX 6500XT 4GBD6-DH/OC;R$ 999,99
+194;Placa de Vídeo Galax, NVIDIA GeForce GTX 1650 EX, 4GB GDDR6, 1 Click OC, 192 Bits, DVI, HDMI, E Displayport - 65SQL8DS66E6;R$ 975,69
+195;Cabo Riser Pci-e 3.0 X16 Thermaltake Premium - Ac-045-cn1otn-c1;R$ 556,37
+196;Placa de Vídeo Knup NVIDIA GeForce GT730, 2GB DDR3, 128 Bits, VGA/HDMI/DVI - KP-GT730/AB;R$ 565,24
+197;Placa de Vídeo PNY NVIDIA GeForce Quadro RTX A4000, 16GB, 256 Bits;R$ 6.834,90
+198;Placa de Vídeo PCYes AMD Radeon RX570, 4GB GDDR5, 256 Bits, Graffiti Series - PJ570RX256GD5;R$ 966,73
+199;Placa De Vídeo Galax Nvidia Geforce Rtx 4060 8Gb Oc, 1-click, Gddr6, 128bits, Dp / HDMI - 46nsl8md8zoc;R$ 1.979,09
+200;Placa de Video RTX 4060 TI Dual Palit NVIDIA GeForce, 8GB GDDR6, RGB, 128bit, G-Sync, Ray Tracing, DLSS - NE6406T019P1-1060D;R$ 2.599,99
+201;Placa De Vídeo RTX 4080 SG 1-Click OC Galax Geforce, 16GB, GDDR6X, ARGB, Dlss, Ray Tracing - 48nzm6md6lsgbr;R$ 8.624,02
+202;Placa de Vídeo Galax NVIDIA GeForce RTX 3080 Serious Gaming, 10GB, LHR, RGB, DLSS, Ray Tracing - 38NWM3MD99RG;R$ 6.499,00
+203;Placa De Vídeo RTX 3050 Ventus 2X OC MSI NVIDIA GeForce, 8GB, GDDR6, 128 Bits;R$ 2.099,95
+204;Suporte Placa De Vídeo Coolmoon, Argb, Controlável, 5v, 3 Pin;R$ 167,70
+205;Placa de Vídeo Galax NVIDIA GeForce RTX 3060 OC, 8GB GDDR6, LHR, 1-Click, 192 Bits - 36NSL8MD6OCC;R$ 2.382,09
+206;Placa de Vídeo Galax NVIDIA GeForce RTX 2060 Super EX, 8GB GDDR6, 256 Bits, 1-Click OC - 26ISL6HP68LD;R$ 4.800,00
+207;Placa de Vídeo Quadro RTX A4500 PNY NVIDIA, 20GB GDDR6, Ray Tracing - VCNRTXA4500-PB;R$ 9.499,99
+208;Placa De Video Galax Geforce Rtx 4070 Super, 12GB, GDDR6X, 192-BIT, 1-CLICK OC 2X - 47SOM7MD9PSU;R$ 4.826,99
+209;Placa Mãe B760 Aorus Elite Ax Gigabyte, DDR5, Wi-fi, M.2, Intel Lga 1700, Atx;R$ 2.214,70
+210;Placa De Vídeo Rtx 3060 ti, Galax, 8 GB, Gddr6 - 36isl6md1vdd;R$ 3.677,39
+211;Placa de Vídeo Afox AMD Radeon R5 220, 2GB SDDR3 - AFR5220-2048D3L5-V2;R$ 215,01
+212;Placa de Vídeo PowerColor AMD Red Devil RX 6700XT, 12GB GDDR6, HDMI - AXRX 6700XT 12GBD6-3DHE/OC;R$ 7.020,00
+213;Placa De Video Colorful, Igame Rtx 4070, Ti Advanced Oc-v;R$ 5.465,68
+214;Placa de Vídeo RX 7700 XT Fighter PowerColor AMD Radeon, 12GB GDDR6, Ray Tracing - RX7700XT 12G-F/OC;R$ 2.999,99
+215;Placa De Video Brx Geforce Gtx 750, 4GB, DDR5, 128 Bits HDMI, VGA, DVI, Nvidia-gtx750-4g-640sp;R$ 579,90
+216;Placa De Vídeo GTX 1650 Nb Colorful Geforce Nvidia, 4GB, GDDR6, V3-V;R$ 879,12
+217;Placa de Vídeo Asus NVIDIA GeForce RTX 3090 TUF Gaming, 24GB GDDR6X, 384 Bits - TUF-RTX3090-O24G-GAMING;R$ 18.180,00
+218;Placa De Vídeo Gt610 2GB, DDR3 64bit, Reference;R$ 179,81
+219;Placa De Vídeo Pcyes Geforce GTX 750 Ti, 2GB, GDDR5, 128 Bits, Dual Fan, Pj750tir5df;R$ 736,70
+220;Suporte Placa De Vídeo Infinity, LED, ARGB, Infinito 3 Pinos, 5v, Vertical, Preto;R$ 167,70
+221;Placa De Vídeo PowerColor, Radeon Red Dragon Rx570, 4GB, GDDR5 - Axrx 570 4gbd5-dhdv3/oc;R$ 1.824,00
+222;Suporte para Placa De Vídeo Coolmoon, Branco, LED ARGB 5v, 3 Pinos, 280mm, Controlável;R$ 158,70
+223;Placa de Vídeo PNY NVIDIA GeForce Quadro T1000, 8GB GDDR6 - VCNT10008GB-PB;R$ 3.023,54
+224;Placa De Vídeo Zotac Nvidia Geforce RTX 3070 Twin Edge, 8GB GDDR6, Lhr - Zt-a30700e-10plhr;R$ 3.833,99
+225;Placa De Vídeo Pny Nvidia Geforce RTX 4060 Verto, Dual Fan, 8GB, GDDR6, Dlss, Ray Tracing - Vcg40608dfxpb1;R$ 2.290,28
+226;Placa de Vídeo Asus AMD RX6600XT Dual, 8GB, 128 Bits;R$ 2.336,83
+227;Placa de Vídeo Afox NVIDIA GeForce GT420, 2GB DDR3 - AF420-2048D3L2;R$ 341,91
+228;Placa De Video Quadro 4GB Ddr6 64bit Vcnt4004GB-pb T400 Pny;R$ 1.290,58
+229;Placa De Video Pcyes Nvidia Geforce Rtx 3060 Ti, 8GB, Gddr6, Graffiti Series, Full Size, Dual Fan - Pgs3060tifsr6;R$ 2.519,91
+230;Placa de Vídeo Asus AMD, 12GB GDDR6 - TUF-RX6700XT-O12G-GAMING;R$ 11.729,15
+231;Placa De Vídeo Galax Geforce Gt 730, 4GB, DDR3, 128bits - 73gqf8hx00hd;R$ 403,44
+232;Placa de Vídeo PowerColor AMD Radeon Red Devil RX6800XT, 16GB GDDR6, AXRX - 16GBD6-3DHE/OC;R$ 6.295,99
+233;Placa de Vídeo Afox NVIDIA GeForce GTX750, 2GB GDDR5, 128 Bits, HDMI, DVI, VGA - AF750-2048D5L4;R$ 948,10
+234;Placa de Vídeo MSI NVIDIA GeForce GPU NV RTX3060TI Ventus 2X OC, 8GB GDDR6, LHR, 256 Bits - 912-V397-232;R$ 3.084,72
+235;Placa De Vídeo Rtx 4060 Ghost Gainward Nvidia Geforce, 8Gb, Gddr6, 128bits, Raytracing, Dlss, Ne64060019p1-1070b;R$ 2.345,15
+236;Cabo Riser Pci-e Extender Tt Premium 600mm - Ac-050-co1otn-c1;R$ 653,51
+237;Placa De Vídeo RX 6750 XT Mech 2x 12G V1 Radeon, 12GB, GDDR6, Freesync, Dual Fan;R$ 4.099,11
+238;Placa De Vídeo Rtx4060, Pegasus Gainward Nvidia Geforce, 8Gb, Gddr6, 128bits, Raytracing, Dlss, Ne64060019p1-1070e;R$ 2.978,88
+239;Placa De Vídeo Gainward, Nvidia Rtx 4080, 16GB, Phoenix GDDR6x, 256bits - Ned4080019t2-1032x;R$ 8.977,20
+240;Placa De Video Colorful, Igame Rtx 4080, 16GB, Vulcan Oc-v;R$ 7.774,85
+241;Placa De Vídeo Zotac Nvidia Geforce Rtx 4070 Ti Trinity Oc, 12gb, Gddr6x, 192 Bits, HDMI E Dp, Dlss, Ray Tracing - Zt-d40710j-10p;R$ 6.765,82
+242;Placa de Vídeo Colorful NVIDIA GeForce RTX 3060 Mini Igame, 192 Bits;R$ 2.287,12
+243;Placa de Vídeo Galax NVIDIA RTX 4070 EX Gamer, 12GB GDDR6X, 192 Bits - 47NOM7MD7JEG;R$ 5.867,98
+244;Placa De Vídeo Pny Nvidia Quadro RTX A5500, 24GB, 384bits;R$ 15.999,90
+245;Placa De Video Zotac Gaming, GeForce RTX 4060TI, 8GB GDDR6, 128-BIT, Twin Edge - ZT-D40610E-10M;R$ 3.659,90
+246;Placa de Vídeo RX 7900 XT Hellhound PowerColor AMD Radeon, 20 GB GDDR6, LED, Ray Tracing - RX7900XT 20G-L/OC;R$ 5.399,99
+247;Placa de Vídeo Afox NVIDIA GeForce GT 420, 4GB GDDR3 - AF420-4096D3L5;R$ 665,10
+248;Placa de Vídeo Afox AMD Radeon R5 220, 2GB DDR3, 64 Bits, Low Profile, HDMI/DVI/VGA - AFR5220-2048D3L5-V2;R$ 241,93
+249;Placa de Vídeo Gainward NVIDIA GeForce RTX 3080 Phoenix, 10GB GDDR6X, LHR, 320 Bits - NED3080019IA-132AX;R$ 7.083,00
+250;Placa De Vídeo Nvidia Duex Geforce Gt 730, 4GB, GDDR3, 128 Bits - Gt730lp-4gd3;R$ 306,90
+251;Placa de Vídeo Asus NVIDIA GeForce GTX 1660 TI O6G EVO OC TUF Gaming, 6GB GDDR6, Preto - 90YV0CT7-M0NA00;R$ 4.699,00
+252;Cabo Adaptador Energia Placa De Vídeo, 8pin Para 2x 6+2pin PCI-e, Extensor Divisor, Conector Splitter, Adaptador Y, Preto E Amarelo;R$ 24,90
+253;Placa De Vídeo RTX 4060 TI Eagle Gigabyte Geforce, 8GB, GDDR6, 128 Bits - Gv-N406teagle-8gd;R$ 3.742,20
+254;Placa de Vídeo Gigabyte Geforce RTX 4070 WindForce Oc 12g 12GB GDDR6x 192 Bit  - Gv-n4070wf3oc-12gd.;R$ 4.409,10
+255;Placa de Vídeo Galax NVIDIA GeForce GTX 1660, 6GB GDDR5, 1-Click OC - 60SRH7DSY91C;R$ 2.587,33
+256;Placa de Vídeo Palit NVIDIA GeForce RTX 3050 Dual, 8GB GDDR6, LHR, DLSS, Ray Tracing - NE63050019P1;R$ 3.280,37
+257;Placa de Vídeo PNY NVIDIA GeForce, RTXA2000 - VCNRTXA2000-PB I;R$ 3.385,66
+258;Placa de Vídeo Asus NVIDIA GeForce RTX 2060, 12GB GDDR6, 128 Bits - DUAL-RTX2060-O12G-EVO;R$ 5.271,81
+259;Placa de Vídeo PCYes AMD Radeon 5450, 1GB DDR3, 64 Bits - PJ54506401D3LP;R$ 357,00
+260;Gt 1030 2GB 64bits Pcwinmax Gt1030-2gd5 DDR5;R$ 630,98
+261;Placa de Vídeo 1GB MSI GeForce GT 710 DDR3 64Bits - GT 710 1GD3H LP - ESP;R$ 344,94
+262;Placa De Vídeo Msi Gaming X Slim Rtx 4070 Ti - 12gb, G6x, 192bits, Oc;R$ 7.635,16
+263;Placa de Vídeo Duex AMD Radeon RX550, 4GB GDDR5, 128 Bits, HDMI/DVI/DISPLAYPORT - DX RX550-4GB;R$ 586,05
+264;Placa De Vídeo RTX 4060 TI Ventus 2x Oc, MSI, Nvidia, 8GB, GDDR6 - 912-V515-024;R$ 2.949,00
+265;Placa De Video Brx Geforce Gt 610, 2GB, DDR3, 64 Bits HDMI, VGA, DVI;R$ 152,92
+266;Placa De Vídeo Gpu Nv Rtx4070 12gb Gddr6x 192 Bits Gaming X Slim Msi 912-v513-268;R$ 5.254,82
+267;Placa De Vídeo PNY Nvidia RTX 4090, 24GB, GDDR6x, 384bits, Triple Fan - Vcg409024tfxmpb;R$ 14.349,99
+268;Placa de Vídeo Afox NVIDIA GeForce GT730, 2GB DDR3, HDMI/DVI/VGA;R$ 463,90
+269;Placa de Vídeo Palit NVIDIA GeForce RTX 3060 Dual, 12GB GDDR6, LHR, 192 Bits, DLSS, Ray Tracing - NE63060019K9-190A;R$ 2.342,90
+270;Placa de Vídeo PNY NVIDIA GeForce Quadro T400, 2GB GDDR6, 64 Bits - VCNT400-PB;R$ 899,90
+271;Placa de Vídeo RTX 4070 Super MSI 12G Ventus 3X OC NVIDIA GeForce, 12GB GDDR6X, DLSS, Ray Tracing;R$ 4.399,99
+272;Placa De Vídeo Nvidia Gpu GT 210, 512MB, DDR3, 64bits, PCIe;R$ 129,90
+273;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 D6, 6GB GDDR6, 192 Bits;R$ 5.138,99
+274;Placa de Vídeo Asus NVIDIA GeForce GTX1660 Super, 6GB GDDR6 - TUF-GTX1660S-O6G-GAMING;R$ 2.299,99
+275;Placa de Vídeo PCYes NVIDIA GeForce G210, 1GB DDR3, HDMI/VGA/DVI - PAKG2101GBDR3SF;R$ 179,90
+276;Placa De Vídeo Zotac Nvidia RTX 4060, Spider-Man, 8GB, 128bits, Oc;R$ 2.452,65
+277;Placa de Vídeo PCYes AMD Radeon RX 550, 4GB GDDR5, Grafiti Series - PAJRX550DR5DF;R$ 734,65
+278;Placa de Vídeo RX 7700 XT Hellhound PowerColor AMD Radeon, 12GB GDDR6, Ray Tracing - RX7700XT 12G-L/OC;R$ 3.199,99
+279;Placa De Vídeo Gainward, Nvidia RTX 3050, 8GB, GDDR6, 128bits, Pegasus Series - Ne63050018p1-1070e;R$ 2.240,77
+280;Placa de Vídeo MSI NVIDIA GeForce GT210, 1GB DDR3, 64 Bits, VGA/HDMI/DVI - N210-MD1G/D3;R$ 260,01
+281;Placa de Vídeo Goldentec NVIDIA GeForce G210, 1GB DDR3, 64 Bits;R$ 214,15
+282;Placa De Vídeo Afox Gt610 2GB DDR3- Af610-2048d3l7-v6;R$ 252,59
+283;Extensor Placa Riser Knup Kp-pl906, Pci-e 009s, Cabo USB 3.0 Vermelho;R$ 66,91
+284;Placa De Vídeo Rtx 4070 Ti Panther Gainward Nvidia Geforce, 12Gb, Gddr6x, 192bits, Raytracing, Dlss 3, Ned407t019k9-1043;R$ 6.264,49
+285;Placa De Vídeo RTX 4060 Gaming X Msi Nvidia Geforce, 8GB, DDR6, Dlss Ray Tracing - 912-V516-011;R$ 2.996,81
+286;Placa De Vídeo RTX 3050 Verto Dual Fan, Pny Nvidia, 8GB, GDDR6, 128Bits - Vcg30518dfbpb1;R$ 1.699,00
+287;Placa de Vídeo Afox NVIDIA GeForce GT610, 2GB DDR3 - AF610-2048D3L5;R$ 345,05
+288;Placa de Vídeo PCYes NVIDIA GeForce GPU GTX 1050, 2GB GDDR5, 128 Bits, Dual-FAN, Graffiti Series;R$ 1.070,34
+289;Placa De Video Gt610 2gb Ddr3 64bits Bp-gt610-2gd3t1 Blucase;R$ 339,98
+290;Placa de Vídeo RX 7800 Xt Sapphire Multi Radeon, 16GB, GDDR6, 256bits;R$ 5.709,90
+291;Placa De Vídeo RTX 4060 Ventus 2x Oc Black, Msi Nvidia, 8GB, GDDR6, 912-V516-012;R$ 2.506,73
+292;Placa de Vídeo Galax, NVIDIA GeForce RTX 3050 V2, 8GB GDDR6, LHR, 1-Click OC, DLSS, Ray Tracing - 35NSL8MD5YBP;R$ 1.949,00
+293;Placa de Vídeo RTX 4060 Manli Nvidia, 8GB, GDDR6, 128bits, Oc;R$ 2.709,90
+294;Placa de Vídeo Afox NVIDIA GeForce GT730, 4GB DDR3, 128 Bits, Low Profile, HDMI/DVI/VGA - AF730-4096D3L5;R$ 526,87
+295;Cabo Adaptador Energia 6pin Para 2x 6+2pin Pci-e, Extensor Divisor, Conector Splitter, Adaptador Y, Preto e Amarelo - Placa De Vídeo;R$ 29,90
+296;Placa De Vídeo Zotac Nvidia RTX 4060 Ti, Spider-Man, 8GB, 128bits, Oc;R$ 3.254,59
+297;Placa De Vídeo Nvidia Msi Geforce RTX 4080 Gaming X Trio 16GB DDR6, 256 Bits - 912-v511-046;R$ 9.166,92
+298;Placa De Vídeo Rtx 4060 8GB, GDDR6, 128GB,Gaming X Nvidia Edit. Msi - 912-v516-033;R$ 2.979,26
+299;Placa De Vídeo Power Color AMD Radeon Rx 7900 Xt 20GB GDDR6 320bits - 20g-l/oc;R$ 7.035,15
+300;Placa De Video BRX, Nvidia RTX 2060s, 8GB, GDDR 6, 256Bit, VGA - Rtx2060s-8g-2176sp;R$ 2.055,97
+301;Placa de Vídeo Colorful NVIDIA GeForce G-C1030, 2GB DDR4, V5-VPLAC, HDMI, VGA;R$ 574,94
+302;Placa de Vídeo, Msi, GPU Nvidia RTX3060, 8GB GDDR6, Ventus 2x Oc - 912-v397-646;R$ 2.199,90
+303;Placa de Vídeo Afox NVIDIA GeForce GT730, 4GB DDR3, 128 Bits, LP, HDMI, DVI-VGA - AF730-4096D3L6;R$ 505,00
+304;Placa de Vídeo Afox NVIDIA GeForce GT610, 1GB DDR3, 64 Bits, LP, Single FAN, DVI, HDMI, VGA;R$ 210,67
+305;Placa de Vídeo Palit NVIDIA GeForce GTX 1050 TI Stormx, 4GB GDDR5, 128 Bits - NE5105T018G1-1070F;R$ 1.445,69
+306;Placa de Vídeo Knup NVIDIA GeForce GT-210, 1GB DDR3, HDMI, 64 Bits;R$ 356,92
+307;Placa De Video Pny Quadro RTX A2000 6GB, Gddr6, 4x Mdp, Vcnrtxa2000-pb;R$ 4.058,10
+308;Placa de Vídeo Galax NVIDIA GeForce GTX 1660TI OC, 6GB GDDR, 1-Click - 60IRL7DSY91C;R$ 2.412,58
+309;Placa De Vídeo Pny Nvidia, Quadro RTX A4500, 20GB, GDDR6 - Vcnrtxa4500-Pb;R$ 9.279,41
+310;Placa de Vídeo Galax NVIDIA GeForce RTX 3090 GF, 24GB GDDR, 1-Click OC, 384 Bits, DP, HDMI - 39NSM5MD1GNA;R$ 18.984,06
+311;Placa De Vídeo Pcwinmax Nvidia GTX 750TI 2GB, 128 Bits, DDR5, HDMI + VGA;R$ 793,78
+312;Placa Gráfica Nvidia Quadro K600 1gb Ddr3 128bits - Pny Vcqk600-pb;R$ 1.322,99
+313;Placa De Vídeo RTX 3090 Msi Gaming, 24GB, GDDR6, 384Bits;R$ 12.065,10
+314;Placa De Vídeo Galax Geforce Gtx 1650 Ex Plus (1-click Oc), 4gb, Gddr6, 128 Bits - 65sql8ds93e1;R$ 1.092,11
+315;Placa de Vídeo Afox AMD Radeon RX 550, 4GB GDDR5, 128 Bits - AFRX550-4096D5H4-V5;R$ 557,86
+316;Placa de Vídeo Afox AMD Radeon R5 220, 1024MB DDR3, 64 Bits, HDMI, DVI, VGA - AFR5220-1024D3L5-V2;R$ 167,91
+317;Placa De Video Gtx1650 4gb Gddr6 Pny  Hdmi/dp Vcg16504d6dfppb;R$ 1.171,26
+318;Placa de Vídeo Afox NVIDIA GeForce GT730, 4GB DDR3, 128 Bits, Low Profile, HDMI/DVI/VGA - AF730-4096D3L6;R$ 479,87
+319;Placa de Vídeo Gainward Nvidia Rtx 4070 Ti, 12GB RAM, RGB, Construído para Transmissão ao Vivo - Ned407t019k9-1043x;R$ 7.390,62
+320;Placa de Vídeo Galax NVIDIA GeForce GTX 1630, 4GB DDR6, 64 Bits;R$ 1.055,27
+321;Placa De Video Pcyes AMD Radeon R7 240, 4GB, GDDR5, 128 Bits, Single-fan, Gaming Edition - Pvr2404gbr5128;R$ 461,19
+322;Placa De Vídeo Sapphire Multi AMD Radeon RX 7600, 8GB GDDR6 - Preto;R$ 2.849,90
+323;Placa de Vídeo Asus NVIDIA GeForce GTX 1650 TUF Gaming OC Edition, 4GB DDR6, 128 Bits - TUF-GTX1650-O4GD6-GAMI;R$ 2.599,00
+324;Placa de Vídeo PNY NVIDIA GeForce Quadro RTX A2000, 12GB, 192 Bits;R$ 4.339,36
+325;Placa de Vídeo Galax NVIDIA GeForce RTX 3090 TI EX Gamer, 24GB GDDR6X, 384 Bits - 39IXM5MD6HEX;R$ 20.990,00
+326;Placa de Vídeo RTX 4070 Super MSI 12G Ventus 2X OC NVIDIA GeForce, 12GB GDDR6X, DLSS, Ray Tracing;R$ 4.299,99
+327;Placa De Vídeo Gainward, Nvidia RTX4070 12GB, Ghost GDDR6X, 192bits - Ned4070019k9-1047b;R$ 4.700,64
+328;Placa de Vídeo PNY NVIDIA GeForce Quadro T400, 4GB GDDR6, 64 Bits - VCNT4004GB-PB;R$ 1.479,00
+329;Placa de Vídeo PNY NVIDIA GeForce Quadro Turing T1000, 4GB GDDR6, 128 Bits, DP - VCNT1000-PB;R$ 2.480,17
+330;Placa de Vídeo Galax NVIDIA GeForce RTX 3080 HOF, 10GB GDDR6X, LHR, DLSS, Ray Tracing - 38NWM3MD3BJJ;R$ 10.899,00
+331;Placa De Vídeo Sapphire Multi AMD Radeon RX 7900 Xt, 20GB, GDDR6, Fsr, Ray Tracing - Preto;R$ 8.849,90
+332;Placa de Vídeo Asus NVIDIA GeForce RTX 3070 O8G V2 OC, 8GB GDDR6, LHR, Dual, DLSS, Ray Tracing - 90YV0FQC-M0NA00;R$ 8.974,98
+333;Placa de Vídeo RTX 6000 ADA PNY NVIDIA Quadro, 48GB GDDR6, 384bits - VCNRTX6000ADA-PB;R$ 51.999,99
+334;Placa de Vídeo MSI Gaming X Trio, NVIDIA GeForce RTX 4070, 12GB, G6X, 192bits, OC;R$ 5.230,72
+335;Placa de Vídeo Asus NVIDIA GeForce GTX 1650 OC Edition Phoenix, 4GB GDDR6 - PH-GTX1650-O4GD6-P;R$ 1.299,00
+336;Placa de Vídeo Afox AMD Radeon R5 230, 1GB DDR3, Low Profile - AFR5230-1024D3L4;R$ 198,81
+337;Placa de Vídeo Galax NVIDIA GeForce GT 1030, 2GB DDR5, 64 Bits, 6008mhz - 30NPH4HVQ4ST;R$ 606,05
+338;Placa De Vídeo Palit Gamingpro Rtx 3080 - 12GB, 384 BITS;R$ 4.760,00
+339;Placa de Vídeo Gigabyte Nvidia GeForce RTX 4090, 24GB GDDR6X, Edição Gaming OC, Multiprocessadores de Streaming, Nvidia Ada Lovelace;R$ 20.799,90
+340;Suporte Argb Para Placa De Video Cooler Master - Mca-u000r-gsbtg-00;R$ 289,90
+341;Placa de Vídeo DEX NVIDIA GeForce GTX 750TI 700 Series, 2GB DDR5 - PV-07;R$ 1.092,90
+342;Placa de Vídeo Gainward NVIDIA GeForce GTX 1050 TI, 4GB GDDR5, 128 Bits - NE5105T018G1-1070F;R$ 1.258,81
+343;Placa De Vídeo RTX 4060 TI Gaming X Slim, Msi Nvidia, 16GB, GDDR6, 128Bits, White - 912-V517-001;R$ 4.332,83
+344;Placa de Vídeo RTX 4000 PNY NVIDIA Quadro Ada SFF, 20GB GDDR6, 160bits - VCNRTX4000ADALP-PB;R$ 9.999,99
+345;Placa de Vídeo AMD Radeon RX 550, 2GB GDDR5, 128 Bits - AMD 2GBD5-HLEV2;R$ 1.130,18
+346;Placa De Vídeo Afox Geforce Gt610 2gb, Ddr3, 64 Bits, Low Profile, Hdmi/dvi/vga - Af610-2048d3l7-v5;R$ 299,90
+347;Placa De Vídeo Gainward Ne63060019p1-190ae Nvidia RTX 3060 Pegasus 8GB 128bits;R$ 1.734,00
+348;Placa De Vídeo Geforce RTX 3050 Twin X2 Inno3d, 8GB GDDR6, 128-bit N30502-08d6-1190va42;R$ 2.869,90
+349;Placa de Vídeo Gpu Inno3d Geforce RTX 4060 Twin X2 Oc White, 8GB, GDDR6, 128-bit N40602-08d6x-173051w;R$ 4.789,90
+350;Placa de Vídeo Gainward NVIDIA GeForce GTX1650 Ghost, 4GB GDDR6, 128 Bits - NE6165001BG1-1175D;R$ 1.377,95
+351;Placa de Vídeo, Msi, GPU Nvidia RTX3050 8GB DDR6, Aero Itx Oc - 912-v809-4041 *;R$ 1.668,55
+352;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Super Windforce OC, 6GB - GV-N166SOC-6GD;R$ 2.634,86
+353;Placa De Vídeo Zotac Gaming, Geforce Rtx 4070 Twin Edge, 12GB, Gddr6x - ZT-D40700E-10M;R$ 5.487,96
+354;Placa De Vídeo RTX 4060 Windforce Oc Gigabyte NVIDIA Geforce, 8GB, GDDR6, Dlss, Ray Tracing, Gv-N4060wf2oc-8gd;R$ 2.279,90
+355;Placa de Vídeo Gainward NVIDIA GeForce GT 1030, 2GB DDR4, 64 Bits, Low Profile Nec - 103000646-1082F D;R$ 680,87
+356;Placa De Vídeo Sapphire Multi Radeon RX 6500 Xt Gaming Oc, 4GB, GDDR6, Fsr, Ray Tracing - Preto;R$ 1.499,90
+357;Placa de Vídeo Gainward NVIDIA GeForce RTX 3080 TI Phoenix G6X, 12GB, 384 Bits;R$ 10.352,70
+358;Placa de Vídeo PCYes NVIDIA GeForce GPU R5 230, 2GB DDR3, 64 Bits, Low Profile - PJR230RLP;R$ 277,10
+359;Placa de Vídeo Asus NVIDIA GeForce GTX 1650 TUF, 4GB GDDR6, 2 FANs;R$ 1.899,00
+360;Placa De Vídeo Galax RTX 4070 1-click Oc 3x, 12GB, GDDR6x, 192bits - 47nom7md7qoc;R$ 4.169,99
+361;Placa de Vídeo Colorful NVIDIA GeForce RTX 3080 TI Igame, 12GB GDDR6X, LHR, Advanced OC-V, 384 Bits;R$ 7.039,12
+362;Placa de Vídeo Afox NVIDIA GeForce GT1030, 2GB DDR5, 64 Bits, Low Profile, HDMI/DVI - AF1030-2048D5L5-V2;R$ 597,51
+363;Placa De Vídeo Nvidia Msi Geforce RTX 4070 Ventus 3x Oc 12GB DDR6, 192 Bits - 912-v513-219;R$ 4.749,90
+364;Placa de Vídeo PCYes AMD R5 220, 1GB DDR3, 64 Bits, Low Profile - PJ220R364;R$ 154,00
+365;Placa de Vídeo PCYes NVIDIA GeForce GTX 1660 TI, 6GB GDDR6, 192 Bits, DVI/HDMI/DP - PA1660TI6GR6FS;R$ 1.172,49
+366;Placa de Vídeo Afox NVIDIA GeForce GTX750TI, 2GB GDDR5, 128 Bits, HDMI/DVI/VGA - AF750TI-2048D5H5-V2;R$ 688,20
+367;Placa de Vídeo AMD Radeon RX 560, 4GB, GDDR5, 128bits - Pcwinmax Rx560-4gd5g;R$ 881,99
+368;Placa de Vídeo Goline NVIDIA GeForce GT 210, 1GB DDR2, 64 Bit, VGA/HDMI/DVI, Low Profile - GL-GT210-1D2;R$ 215,90
+369;Placa de Vídeo Colorful NVIDIA GeForce GTX 1660 TI NB Igame, 6GB GDDR6, V2-V, 192 Bits;R$ 2.375,12
+370;Placa De Vídeo Sapphire Nitro+ Radeon Rx 7800 Xt - 16gb, Gddr6, 256bits;R$ 6.139,90
+371;Placa de Vídeo Colorful NVIDIA GeForce GTX 1050 TI NE, 4GB GDDR5, 128 Bits;R$ 1.231,12
+372;Placa de Vídeo Asus NVIDIA GeForce GT 1030 OC, 2GB GDDR5 - GT1030-SL-2G-BRK;R$ 697,41
+373;Placa de Vídeo RTX 4500 ADA PNY NVIDIA Quadro, 24GB GDDR6, 192bits - VCNRTX4500ADA-PB;R$ 16.999,99
+374;Placa de Vídeo GTX 1050 TI PCYes Low Profile NVIDIA GeForce, 4GB GDDR5, 128Bits Graffiti Series - PVGTX1050TILP4GB;R$ 929,99
+375;Placa de Vídeo RX 570 Dual Fan PCYes Low Profile, 4GB GDDR5, 128Bits, Graffiti Series - PVRX570LP4GBDF;R$ 799,99
+376;Placa de Vídeo Asus AMD RX6500 XT, 4GB, 64 Bits, Dual;R$ 1.909,80
+377;Adaptador Para Fonte De Energia Duas Fontes Em Um Pc 2psu/1pc Tx-n02-b 4pin;R$ 52,20
+378;Placa De Vídeo RTX 3060 NB Duo-V Colorful, Geforce Nvidia, 8GB, GDDR6;R$ 2.287,12
+379;Placa De Vídeo RTX 3090 Nvidia Palit Geforce - GAMINGPRO 24GB;R$ 12.799,90
+380;Computador AMD Ryzen 5 1400, 8GB RAM DDR4, SSD 240GB, Gabinete Com Fonte, Windows 10 Pro;R$ 2.018,25
+381;Bloco Vga Barrow Para Rtx 3060ti E 3070 Asus Strix - Bs-ass3070-pa;R$ 799,00
+382;Bloco VGA Barrow Para 1660ti, 2060 E 2070 Evga - Bs-nvg2070-pa;R$ 650,00
+383;Msi RTX 3090 Gaming X Trio 24g Nvidia Geforce RTX 3090 24 Gb GDDR6x;R$ 9.497,86
+384;USADO - Placa De Video Amd Radeon R5 230, 2GB DDR3, 64 Bits, Low Profile Com Kit Incluso - Pcyes, Pjr230rlp, 35513 - Muito Bom;R$ 223,13
+385;Placa De Vídeo Geforce RTX 4060 Ti 8gb Twin X2 Inno3d, 8GB GDDR6, 128-bit N406t2-08d6-171153n;R$ 3.681,41
+386;Placa De Video Manli Geforce Rtx 3050, 8GB, GDDR6, 192 Bits Dvi-d/hdmi/dp;R$ 1.700,00
+387;Placa de Vídeo RX 7700 Xt Sapphire Multi Radeon, 12GB, GDDR6, 192bits;R$ 4.989,90
+388;Placa De Vídeo Rtx 4070ti 16GB Super, Tx2 Oc White 256b Inno3d - N407ts2-166xx-186156w;R$ 7.977,45
+389;Gpu Nv Rtx4060ti 16GB, GDDR6, 128bits Ventus 3x Oc Msi 912-v517-004;R$ 4.136,00
+390;Placa De Vídeo Sapphire Nitro+ Radeon Rx 7900 Xtx - 24gb, Gddr6, 384bits;R$ 11.399,90
+391;Placa De Vídeo Gainward, Nvidia RTX4070, 12GB, Ghost Oc G6x, 192bits - Ned4070s19k9-1047b;R$ 4.882,49
+392;Gpu Nv Rtx4060ti 16GB, Gd6 128b Panther Gainward - Ne6406t019t1-1061z;R$ 4.914,00
+393;Placa De Vídeo RTX 4060 Asus Dual Nvidia, 8GB, 128bits, Preta, Oc Edition;R$ 3.669,90
+394;Placa De Video Nvidia Geforce Gt 1030 2Gb Gddr5 64bit, Single Fan Low Profile - Pa1030gtg5lp;R$ 565,23
+395;Placa De Vídeo Gigabyte Rtx A2000 12GB, GDDR6;R$ 4.489,55
+396;Placa De Vídeo G210 512mb, DDR3, 64bit;R$ 132,60
+397;Placa De Vídeo Msi Gaming X Slim White Rtx 4060 Ti - 16gb, G6, 128bits, Oc;R$ 6.859,90
+398;Placa De Vídeo Pny Nvidia Quadro, RTX A4500, 20GB, 320bits, HDR;R$ 13.499,90
+399;Placa de Vídeo XFX AMD Radeon Speedster RX, 8GB;R$ 1.581,84
+400;Placa de Vídeo GT220 Keepdata, 1GB, DDR3, VGA, 128bit - Kdgt220-1gd3/1b;R$ 202,02
+401;Placa de Vídeo GT740 Keepdata, 2GB, DDR5, VGA, 128bit -  Kdgt740-2gd5/b;R$ 451,36
+402;Placa De Vídeo RTX 4080 Super SG Galax Nvidia Geforce, 16GB, GDDR6x, 256Bits;R$ 12.000,00
+403;Placa de Vídeo GTX960 Keepdata, 4GB, DDR5, 128bit - Kdgtx960-4gd5;R$ 746,20
+404;Placa De Vídeo Rtx 4070ti 16GB, Super 256 Bits, Gddr6x Ventus 2x Oc - 912-v513-628;R$ 7.689,90
+405;Placa De Vídeo Duex, Geforce Gtx 1660, 6Gb, Gddr5 192 Bits;R$ 1.328,78
+406;Placa de Vídeo W6400 AMD Radeon Pro, 4GB GDDR6, AMD FSR, AMD Radeon ProRender - 100-506189;R$ 1.399,99
+407;Geforce RTX 3070 8GB GDDR6, 256bits, Msi Ventus 3x Plus 8g Oc - 912-v390-456 - Selo Lhr;R$ 5.138,99
+408;Placa de vídeo AMD Radeon RX 550 4GB, GDDR5 128bits, Pcwinmax Rx550-4gdsgddr5;R$ 728,99
+409;Placa de Vídeo RX 6800XT Graffiti Series, 16GB GDDR6, 256 Bits - PJRX6800GR616GBGS;R$ 3.799,99
+410;Placa de Vídeo RX 7700 XT GAMING Sapphire PULSE AMD RADEON, 12GB GDDR6 DUAL HDMI - 11335-04-20G;R$ 3.399,99
+411;Placa De Vídeo Rtx 4080 Gaming X Trio Msi Nvidia Geforce, 16 GB, Gddr6x, Dlss, Ray Tracing,Geforce Rtx 4080, 16GB Gaming X Trio;R$ 9.590,00
+412;Placa De Vídeo Powercolor Radeon Rx 6500 Xt 4GB, GDDR6, Fsr, Ray Tracing - Axrx 6500 Xt 4gbd6-dh;R$ 2.515,50
+413;Placa de Vídeo RTX 4060 Ti Palit Dual, 8GB, 128bits, GDDR6 - Pci-e - Ne6406t019p1-1060d 5793;R$ 2.498,00
+414;Placa De Vídeo Rtx 4070 Ti Super Ex Galax Nvidia Geforce, 16GB, GDDR6X - 47UZM6MD9BUP;R$ 7.499,90
+415;Placa de Vídeo PNY NVIDIA GeForce Quadro P1000, 4GB DDR5, 128 Bits - VCQP1000-PORPB;R$ 3.959,10
+416;Placa De Vídeo Zotac NVIDIA Geforce RTX 4060 Twin Edge Oc, 8GB, GDDR6, 128 Bits, HDMI E Displayport - Zt-d40600h-10m;R$ 2.836,00
+417;Placa Vídeo Asus Gaming, Geforce Dual Rtx 3060, 12GB, Gddr6, RGB, Lhr, Ray Tracing;R$ 4.135,00
+418;Placa De Vídeo PNY Nvidia RTX4080, 16GB, GDDR6x, 256bits, Triple Fan Pny - VCG408016TFXMPB;R$ 9.789,72
+419;Placa De Video Gainward, RTX3050 8GB, Ghost G6, 128b  - Ne63050018p1-1070b;R$ 1.709,10
+420;Placa De Vídeo Manli, NVIDIA, Geforce RTX 3060, 12GB, GDDR6 - M-nrtx3060/6rfhpppv2-m2500;R$ 2.282,74
+421;Placa De Vídeo Msi Nvidia, Ventus 2X RTX 4070, 12GB, 192Bits, OC - 912-V513-063;R$ 7.339,90
+422;Placa de Vídeo Msi Ventus 3x Nvidia RTX 4070, 12GB, 192bits, Oc;R$ 7.659,90
+423;Placa de Vídeo RTX 4060 Ti Nvidia Asus Dual, 8GB, 128bits, Branca, Oc Edition;R$ 4.469,90
+424;Placa De Vídeo Asus Dual Nvidia Rtx 4060 Ti, 8GB, 128bits, Preta, Oc Edition;R$ 4.949,90
+425;Placa De Vídeo Zotac Geforce Rtx 4070 Super Twin Edge Oc, 12GB, GDDR6x, 192bits - Zt-d40720h-10m;R$ 5.377,70
+426;Placa De Video Gainward, RTX3050 8GB, Ghost G6, 128b  - Ne63050018p1-1070b;R$ 1.709,10
+427;Placa De Vídeo Rtx 4070 12GB, Super Twinx2 Oc W 192b Inno3d - N407s2-126xx-186162w;R$ 5.996,72
+428;Placa De Vídeo PNY Nvidia RTX4080, 16GB, GDDR6x, 256bits, Triple Fan Pny - VCG408016TFXMPB;R$ 9.789,72
+429;Suporte para Placa De Vídeo Coolmoon, LED ARGB, 5v, 3 Pinos, 280mm, Preto, Controlável;R$ 158,70
+430;Placa de Vídeo Zotac NVIDIA GeForce GTX 1660 Super, 6GB - ZT-T16620F-10L;R$ 3.153,02
+431;Placa de Vídeo Keepdata GT730, 2GB, DDR3, VGA, 128bit -  Kdgt730-2gd3/;R$ 331,24
+432;Placa de Vídeo GTX750 Keepdata, 4GB, DDR5, VGA, 128bit - Kdgtx750-4gd5b;R$ 641,55
+433;Placa de Vídeo GT210 Keepdata, 1GB, DDR3, VGA, 64bit - Kdgt210-1gd3/6b;R$ 195,65
+434;Placa De Vídeo BRX, RTX 3060 M, 12GB, GDDR 6, 192Bit, VGA;R$ 2.056,92
+435;Placa De Vídeo RTX 4060 TI Black Ex, Galax Nvidia, 16GB, GDDR6, 128Bits - 46izl8md8yex;R$ 5.279,89
+436;Placa De Vídeo Star 2GB, GT610, DDR3, 64bit, VGA/HDMI/DVI Low Profile - Gt610-graphic;R$ 669,60
+437;Placa De Video Afox Af750-4096d5l4v2 4GB GTX 750 DDR5 128bit VGA/DVI/HDMI;R$ 688,20
+438;Placa De Vídeo Gt730, 4GB, DDR3, 64bit;R$ 361,55
+439;Placa De Video Brx Geforce G210, 1GB, DDR3, 64 Bits HDMI, VGA, DVI;R$ 127,42
+440;Placa de Vídeo RTX4060 ProArt OC Edition ASUS NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - 90YV0JM0-M0NA00;R$ 2.299,99
+441;Placa de Vídeo W6600 AMD Radeon Pro, 8GB GDDR6, AMD Radeon ProRender - 100-506208;R$ 3.499,99
+442;Placa de Vídeo RTX 4000 ADA PNY NVIDIA Quadro, 20GB GDDR6, 160bits - VCNRTX4000ADA-PB;R$ 9.499,99
+443;Placa de Vídeo RTX 5000 Ada PNY NVIDIA Quadro , 32GB GDDR6, 256bits - VCNRTX5000ADA-PB;R$ 29.999,99
+444;Placa De Vídeo Colorful Nvidia Geforce GTX 1660 Super Nb Duo 6g-v, 6GB;R$ 1.539,12
+445;Suporte Placa De Vídeo Infinity, Led, Argb, Infinito 3 Pinos 5v, Vertical, Branco Prateado;R$ 167,70
+446;Placa De Captura Razer, Portátil Ripsaw X - Rz2004140100r3x;R$ 2.050,90
+447;Placa De Vídeo Afox GT 1030, 2GB, DDR5;R$ 815,39
+448;Placa de Vídeo MSI NVIDIA GeForce RTX 3060TI Twin FAN OC Edition, 8GB;R$ 4.559,97
+449;USADO-Placa De Video Nvidia Geforce Gt 740, GDD5, 4GB, 128bit Single Fan;R$ 370,60
+450;USADO - Placa De Video Nvidia Geforce Gtx 750 Ti, 2GB, GDDR5, 128 Bits, Dual-fan - Pa75012802g5 - Excelente;R$ 586,42
+451;Placa De Vídeo Palit Gamingpro, Nvidia RTX 4070 Ti, 12GB GDDR6x, 192bits;R$ 4.997,91
+452;Placa De Video Manli Geforce Rtx 3060, 12GB, GDDR6, 192 Bits HDMI/dp;R$ 2.040,00
+453;Placa de Vídeo RTX 4060 Ti Nvidia Manli, 8GB, GDDR6, 128bits, Oc;R$ 3.709,90
+454;Placa De Vídeo Rtx4070,12GB, Gaming Trio Msi 912-v513-234;R$ 6.085,16
+455;Placa De Vídeo Inno3d Super X3 Nvidia Rtx 4070, Ti Super, 16GB, G6x, 256bits, Oc;R$ 7.965,64
+456;Placa de Vídeo Geforce RTX 4060 Ti, 16GB GDDR6, 128bit, Panther Oc Series - Gainward Ne6406tu19t1-1061z;R$ 4.258,77
+457;USADO - Placa De Video AMD, Radeon Rx 550, 4GB, GDDR5, 128 Bits Dual Fan, Graffiti - Excelente;R$ 629,94
+458;Placa De Vídeo Rtx 4070ti 16GB, Super Tx2 G6x 256b Inno3d - N407ts2-166x-186156n;R$ 7.752,60
+459;Placa de Vídeo RTX 4060 Ti NVIDIA Msi Gaming, 8GB, 128bits;R$ 4.629,90
+460;Placa De Vídeo Inno3d Super X3 Nvidia Rtx 4070, Ti Super, 16GB, G6x, 256bits, Oc;R$ 7.965,64
+461;USADO - Placa De Video AMD, Radeon Rx 550, 4GB, GDDR5, 128 Bits Dual Fan, Graffiti - Excelente;R$ 629,94
+462;Placa De Vídeo Rtx 4070 12GB, Super Twinx2 G6x 192b Inno3d - N407s2-126x-186162n;R$ 5.697,63
+463;Placa de Vídeo RTX 4060 Ti Nvidia Msi Ventus 3x, 16GB, 128bits, Oc;R$ 5.589,90
+464;Placa de Vídeo RTX 4000 Pny Quadro, 20GB, GDDR6, 160bits - Vcnrtx4000adalp-pb;R$ 9.298,00
+465;Placa de Vídeo Keepdata GTX750ti, 4GB, DDR5, VGA, 128bit - Kdgtx750ti-b;R$ 746,20
+466;Placa de Vídeo GT610 Keepdata, 2GB, DDR3, VGA, 64bit -  Kdgt610-2gd3/6b;R$ 195,65
+467;Placa de Vídeo Knup NVIDIA GeForce Revenger GTX 750TI Gamer, 2GB DDR5, DVI, VGA, HDMI - GTX750TI/2G;R$ 854,05
+468;Placa De Vídeo Msi Rtx 4060 Ventus 2x Oc 8gb Gddr6 128bits 912-v516-030;R$ 2.550,00
+469;Placa De Vídeo Gigabyte Nvidia Geforce, Rtx 4070, Gaming Oc, 1;R$ 6.285,00
+470;Placa De Vídeo Asus Tuf Gaming Geforce Rtx 4070,12GB, GDDR6x Oc Edition;R$ 6.987,50
+471;Placa De Video Power Color Radeon Rx 550, 4GB, DDR5, Axrx 550 - 4gbd5-dnhv5;R$ 1.599,00
+472;Placa De Vídeo Zotac Geforce Rtx 4070 Super Twin Edge, 12GB, GDDR6x, 192bits - Zt-d40720e-10m;R$ 5.143,79
+473;Placa De Vídeo Rtx 4070 12GB Super, 192 Bits, GDDR6x Ventus 2x Oc - 912-v513-641;R$ 5.329,90
+474;Placa de Vídeo PNY NVIDIA Quadro P6000, 24GB GDDR5 - HPM1-913197-002;R$ 8.121,78
+475;Placa De Video Galax Geforce Rtx 4070 Ti Super SG, OC, 16GB, GDDR6X, 256-BIT - 47UZM6MD6MER;R$ 7.077,77
+476;Placa De Vídeo Rtx 3090 24GB, 384bits Palit Gamingpro, GDDR6x, Pci, Express 4.0;R$ 12.320,00
+477;Placa De Vídeo RTX 4060 TI Ventus 3x Oc, Msi Nvidia, 8GB, GDDR6 - 912-v515-040;R$ 2.499,90
+478;Placa De Video Msi Geforce Rtx 4070, Ti Ventus 3x E 12g Oc 12;R$ 4.997,91
+479;Placa de Vídeo PCYes NVIDIA GeForce GT 1030, 2GB GDDR5;R$ 749,90
+480;Placa de Vídeo AFOX GeForce GTX750TI, 2GB, GDDR5, 128 Bits, HDMI/DVI/VGA - AF750TI-2048D5H5-V7;R$ 1.060,20
+481;Placa de Vídeo Asus AMD Radeon RX 5500 XT EVO, 4GB GDDR6, FidelityFX - DUAL-RX5500XT-O4G-EVO;R$ 6.999,00
+482;Placa de Vídeo Asus NVIDIA GeForce RTX 2060, 6GB GDDR6, 192 Bits - DUAL-RTX2060-O6G-EVO;R$ 4.698,01
+483;Placa de Vídeo Powercolor AMD Radeon RX 550 Red Dragon, 4GB;R$ 3.060,00
+484;Placa de Vídeo Gainward NVIDIA GeForce GTX 1660 Super, 6GB GDDR6, 192 Bits, Dual FAN;R$ 5.941,50
+485;Placa De Vídeo, Afox Geforce Gt 420, 2gb, Ddr3, Dvi Vga Low Profile Pci-express X16 - Af420-2048d3l2;R$ 518,02
+486;Placa De Video Gt210 1gb Ddr3 64bit Vga/dvi/hdmi  Pv-02 Dex;R$ 261,90
+487;Placa de Vídeo PCYes AMD Radeon R7 250 GPU, 2GB GDDR5, 128 Bits, Single-FAN;R$ 801,50
+488;Placa de Vídeo Palit NVIDIA GeForce RTX 3060 StormX, 12GB GDDR6, LHR, 192 Bits - NE63060019K9-190AF;R$ 5.699,00
+489;Placa Controladora Akasa Vegas Para Fitas Led - Até 4 Dispositivos Led - Ak-rld-02;R$ 92,69
+490;Placa de Vídeo Gainward NVIDIA GeForce RTX 3070 Phoenix GS, 8GB GDDR6, RGB;R$ 3.849,00
+491;Placa de Vídeo Duex NVIDIA GeForce GTX 750TI, 2GB DDR5 - GTX750TI-2GD5;R$ 504,90
+492;Placa de Vídeo Afox NVIDIA GeForce GT420, 2GB GDDR3 - AF420-2048D3L2-V2 008407;R$ 526,87
+493;Placa de Vídeo PNY NVIDIA GeForce Quadro RTX A2000, 6GB GDDR6;R$ 3.599,00
+494;Placa de Vídeo RTX 4060 Ti Eagle Gigabyte NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing - GV-N406TEAGLE-8GD G10;R$ ----
+495;Placa de Vídeo RTX 3050 Ventus 2X 8G OC MSI NVIDIA Geforce, 8GB GDDR6, DLSS, Ray Tracing - Geforce RTX 3050 Ventus 2X 8G OC;R$ ----
+496;Placa de Vídeo RTX 4060 WINDFORCE OC Gigabyte NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing - GV-N4060WF2OC-8GD;R$ ----
+497;Placa de Vídeo RX 570 Phantom Gaming Elite ASRock AMD Radeon, 8GB GDDR5, HDR, FreeSync - 90-GA2PZZ-00UANF;R$ ----
+498;Placa de Vídeo RTX 4060 AERO OC Gigabyte NVIDIA GeForce, 8GB GDDR6, RGB, DLSS, Ray Tracing, Branco - GV-N4060AERO OC-8GD;R$ ----
+499;Placa de Vídeo RX 7600 Pulse Sapphire Gaming OC NVIDIA GeForce, 8GB GDDR6 - 11324-01-20G;R$ ----
+500;Placa de Vídeo RTX 4060 Ti WINDFORCE OC 8G Gigabyte NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing - GV-N406TWF2OC-8GD;R$ ----
+501;Placa de Vídeo RTX 4090 Asus NVIDIA ROG Strix, 24 GB GDDR6X, ARGB, DLSS, Ray Tracing - ROG-STRIX-RTX4090-O24G-GAMING;R$ ----
+502;Placa de Vídeo RTX 4060 Ti EX Galax NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing - 46ISL8MD8AEX;R$ ----
+503;Placa de Vídeo RX 7700 XT Phantom Gaming 12G OC ASRock AMD Radeon, 12GB, GDDR6, Ray Tracing - 90-GA4LZZ-00UANF;R$ ----
+504;Placa de Vídeo RTX 3090 Trinity Zotac NVIDIA GeForce, 24GB GDDR6X - ZT-A30900D-10P;R$ ----
+505;Placa de Vídeo RX 550 Radeon Graffiti Series Pcyes AMD, 4 GB GDDR5, 128 Bits, Dual Fan - PJRX5504GGR5DF;R$ ----
+506;Placa de Vídeo GTX 750 Ti Duex NVIDIA GeForce, 4GB, DDR5 - DXGTX750TI4GD5;R$ ----
+507;Placa de Vídeo Quadro T1000 PNY NVIDIA 4GB, GDDR6 - VCNT1000-PB;R$ ----
+508;Placa de Vídeo RTX 4070 VENTUS 2X MSI NVIDIA GeForce, 12 GB OC GDDR6X, DLSS 3, Ray Tracing;R$ ----
+509;Placa de Vídeo RTX 4070 Ti XLR8 Gaming Verto TF OC PNY NVIDIA GeForce, 12GB GDDR6X, DLSS 3, Ray Tracing - VCG4070T12TFXXPB1-O;R$ ----
+510;Placa de Vídeo GT 1030 MSI NVIDIA GeForce 2GD4 LP OC 2GB, DDR4 - 912-V809-2826;R$ ----
+511;Placa de Vídeo RX 6750 XT MECH 2X 12G V1 Radeon AMD, 12GB GDDR6, FreeSync, Dual Fan;R$ ----
+512;Placa de Vídeo PowerColor Fighter AMD Radeon RX 6700 XT, 16Gbps, 12GB GDDR6, AMD RDNA 2 Architecture e FreeSync - AXRX 6700XT 12GBD6-3DH;R$ ----
+513;Placa de Vídeo Intel Arc A750 Challenger D ASRock, 8 GB GDDR6 - 90-GA3HZZ-00UANF;R$ ----
+514;Placa de vídeo RTX 4080 Super SG Galax NVIDIA GeForce, 16GB GDDR6X, DLSS, Ray Tracing, G-Sync - 48SZM6MD9RSG;R$ ----
+515;Placa de Vídeo RX 7700 XT Challenger 12G OC ASRock AMD Radeon, 12GB GDDR6 - 90-GA4QZZ-00UANF;R$ ----
+516;Placa de Vídeo RTX 4070 Ti Super Gigabyte Windforce NVIDIA GeForce, 16GB GDDR6, DLSS, Ray Tracing - GV-N407TSWF3OC-16GD;R$ ----
+517;Placa de Vídeo RX 7800 XT Gaming OC Gigabyte AMD, 16GB GDDR6, RGB, 256 Bits - GV-R78XTGAMING OC-16GD;R$ ----
+518;Placa de Vídeo RX 580 Phantom Gaming Elite ASRock AMD Radeon, 8GB GDDR5, HDR, FreeSync - 90-GA2NZZ-00UANF;R$ ----
+519;Placa de Vídeo RX 7600 XT AMD Steel Legend 16G OC, 16 GB GDDR6 - RX7600XT SL 16GO;R$ ----
+520;Placa de Vídeo RTX Quadro A2000 PNY NVIDIA, 6GB GDDR6, DLSS, Preto - VCNRTXA2000-PB;R$ ----
+521;Placa de Vídeo RTX 4080 Super ROG Strix OC Edition O16G ASUS GeForce, 16GB GDDR6X, DLSS, Ray Tracing - 90YV0KB0-M0NA00;R$ ----
+522;Placa de Vídeo WX3200 AMD Radeon Pro, 4GB GDDR5, AMD Remote Workstation, AMD Radeon ProRender - 100-506115;R$ ----
+523;Placa de Vídeo RX 550 Radeon Power Color AMD, 2 GB GDDR5 - AXRX 550 2GBD5-HLE;R$ ----
+524;Placa de Vídeo RTX 4070 TI EX Gamer V2 Galax NVIDIA GeForce, 12GB GDDR6X, ARGB, DLSS, Ray Tracing, G-Sync - 47IOM7MD7ADT;R$ ----
+525;Placa de Vídeo RTX 3060 1-Click OC Galax NVIDIA GeForce, 12GB GDDR6, LHR, DLSS, Ray Tracing - 36NOL7MD1VOC;R$ ----
+526;Placa de Vídeo RTX 4080 Super O16G ASUS TUF Gaming NVIDIA GeForce, 16GB GDDR6X, DLSS, Ray Tracing - TUF-RTX4080S-O16G-GAMING;R$ ----
+527;Placa de Vídeo RTX 4080 Super Gigabyte Aero OC NVIDIA GeForce, 16GB GDDR6, DLSS, Ray Tracing - GV-N4080SAERO OC-16GD;R$ ----
+528;Placa de Vídeo Quadro P400 PNY NVIDIA, 2GB, GDDR5 - VCQP400V2PB;R$ ----
+529;Placa de Vídeo RTX 4090 NVIDIA Gigabyte GeForce Gaming OC, 24 GB, 	 GDDR6X,  DLSS, Ray Tracing  - GV-N4090GAMING OC-24GD;R$ ----
+530;Placa de Vídeo RTX 4090 ROG Strix Asus NVIDIA GeForce, 24 GB GDDR6X, ARGB, DLSS, Ray Tracing - ROG-STRIX-RTX4090-24G-GAMING;R$ ----
+531;Placa de Vídeo RTX 4090 ROG Strix Edition Asus NVIDIA GeForce, 24 GB GDDR6X, ARGB, DLSS, Ray Tracing, Branco - ROG-STRIX-RTX4090-O24G-WHITE;R$ ----
+532;Placa de Vídeo RTX 4070 EX Gamer Pink GALAX NVIDIA GeForce, 12 GB GDDR6X, DLSS, Ray Tracing, Rosa - 47NOM7MD7LPK;R$ ----
+533;Placa de Vídeo RTX 3060 Verto PNY NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing - VCG30608DFBPB1;R$ ----
+534;Placa de Vídeo RX 580 PowerColor Red Dragon AMD Radeon, 8GB GDDR5 - AXRX 580 8GBD5-DHD;R$ ----
+535;Placa de Vídeo RTX 4080 Super Gigabyte Gaming OC NVIDIA GeForce, 16GB GDDR6, DLSS, Ray Tracing - GV-N408SGAMING OC-16GD;R$ ----
+536;Suporte Vertical Gpu 140mm Bracket Deepcool Preto Pci-e 4.0 16x;R$ ----
+537;Placa de Video RTX 3070 Ti UPRISING Triple Fan PNY NVIDIA GeForce, 8 GB GDDR6X, DLSS, Ray Tracing - VCG3071T8TFMPB;R$ ----
+538;Placa de Vídeo RX 7800 XT Phantom Gaming 16G OC ASRock AMD Radeon, 16GB, ARGB, Ray Tracing - 90-GA4MZZ-00UANF;R$ ----
+539;Placa de Vídeo RTX 4060 Ti Twin X2 OC Inno3D NVIDIA GeForce, 16Gb GDDR6, Dual fan, DLSS, Ray Tracing, G-Sync - N406T2-16D6X-178055N;R$ ----
+540;Placa de Vídeo RX 550 Phantom Gaming ASRock AMD, 4 GB GDDR5 - 90-GA07ZZ-00UANF;R$ ----
+541;Placa de Vídeo RX 7900 XT AMD Radeon Power Color, 20 GB GDDR6, 20GB GDDR6 - RX7900XT 20G;R$ ----
+542;Placa de Vídeo RTX 4070 Ti Gaming MSI NVIDIA GeForce, 12 GB GDDR6X, DLSS 3, Ray Tracing  - GeForce RTX 4070 Ti GAMING X TRIO 12G;R$ ----
+543;Placa de Vídeo RX 6500 XT OC Asus AMD Radeon, 4GB GDDR6, OpenGL, Dual Fan - DUAL-RX6500XT-O4G;R$ ----
+544;Placa de Vídeo RTX 4060 TI AMP Spiderman ED Gaming Zotac NVIDIA GeForce, 16Gb GDDR6, 128bit, HDCP, Three DP, HDMI - ZT-D40620F-10SMP;R$ ----
+545;Placa de Vídeo RX 7700 XT Gaming OC Gigabyte AMD, 12GB GDDR6, RGB, 192 Bits - GV-R77XTGAMING OC-12GD;R$ ----
+546;Placa de Vídeo RX 7900 XTX OC Edition TUF Gaming Asus AMD, 24 GB GDDR6, ARGB - TUF-RX7900XTX-O24G-GAMING;R$ ----
+547;Placa de Vídeo RX 6700 XT Challenger ASRock AMD Radeon, 12GB GDDR6, Ray Tracing;R$ ----
+548;Placa de Vídeo RTX 3060 Asus Dual O12G V2 NVIDIA GeForce, 12GB GDDR6, LHR, DLSS, Ray Tracing - DUAL-RTX3060-O12G-V2;R$ ----
+549;Placa de Vídeo RX 7600 Steel Legend ASRock AMD Radeon, 8GB GDDR6,  ARGB - 90-GA4DZZ-00UANF;R$ ----
+550;Placa de Vídeo GTX 1660 OC Gigabyte NVIDIA GeForce, 6GB GDDR5 - GV-N1660OC-6GD;R$ ----
+551;Suporte para Placa de Vídeo Rise LV2 Small, Branco e Preto - RM-SV-04-BW;R$ ----
+552;Placa de Vídeo RX 6600 XT XFX Speedster SWFT210 AMD Radeon, 8GB GDDR6, 16Gbps, AMD RDNA 2 Architecture - RX-66XT8DFDQ;R$ ----
+553;Placa de Vídeo RTX 3060 TI Ventus 2X 8GD6X OC MSI NVIDIA GeForce, 8GB GDDR6X, G-Sync, Ray Tracing, 256 bits - 85423190;R$ ----
+554;Placa de Vídeo RTX 3070 V2 OC Edition Asus TUF NVIDIA GeForce, LHR, 8GB GDDR6, 14 Gbps, Ray Tracing, DLSS - TUF-RTX3070-O8G-V2-GAMING;R$ ----
+555;Placa de Vídeo RTX 4090 Aero OC 24G Gigabyte NVIDIA GeForce, 24GB GDDR6X, 384bits, RGB, DLSS, Ray Tracing - GV-N4090AERO OC-24GD;R$ ----
+556;Placa de Vídeo RTX 3060 1-Click OC PCI-e Galax NVIDIA GeForce, 8 GB GDDR6, 128BIT - 36NSL8MD6OCC;R$ ----
+557;Placa de Vídeo  RTX 4080 XLR8 Gaming Verto Epic-x RGB PNY NVIDIA GeForce, 16 GB GDDR6X, DLSS, Ray Tracing - VCG408016TFXXPB1-O;R$ ----
+558;Placa de Vídeo RTX 3060 XC Black Gaming 12G P5 3655 KR EVGA NVIDIA GeForce, LHR,  12GB GDDR6, DLSS, Ray Tracing - 12G-P5-3655-KR;R$ ----
+559;Placa de Vídeo RTX 4060 TI Gaming OC Gigabyte NVIDIA GeForce, 16GB GDDR6, RGB, DLSS, Ray Tracing - GV-N406TGAMING OC-16GD;R$ ----
+560;Placa de Vídeo RTX 3080 SG Galax NVIDIA GeForce, 12GB GDDR6X, LHR, DLSS, RGB, Ray Tracing - 38NOM5MD99SS;R$ ----
+561;Placa de Vídeo RTX 4080 16GB Windforce Gigabyte NVIDIA GeForce, 16GB GDDR6X, 256bits, DLSS, Ray Tracing - GV-N4080WF3-16GD;R$ ----
+562;Placa de Vídeo RTX 4070 EX Gamer GALAX NVIDIA GeForce, 12 GB GDDR6X, DLSS, Ray Tracing, Preto - 47NOM7MD7JEG;R$ ----
+563;Placa de Vídeo RTX 4070 Ti XLR8 Gaming Verto Epic PNY NVIDIA GeForce, 12GB GDDR6X, RGB, DLSS 3, Ray Tracing - VCG4070T12TFXXPB1;R$ ----
+564;Placa de Vídeo RTX 3070 FTW3 Ultra Gaming EVGA NVIDIA GeForce, 8GB GDDR6, iCX3 Technology, ARGB LED, LHR, DLSS, Ray Tracing - 08G-P5-3767-KL;R$ ----
+565;Placa de Vídeo RTX 3070 Ti Trinity Zotac NVIDIA GeForce, 8GB GDDR6X, 19 Gbps, LHR, Ray Tracing, DLSS, RGB - ZT-A30710D-10P;R$ ----
+566;Placa de Vídeo Galax NVIDIA GeForce GTX 1660 1-Click OC, 6GB, GDDR5 - 60SRH7DSY91C;R$ ----
+567;Placa de Vídeo RTX 3080 0O10G V2 Gaming Asus NVIDIA GeForce TUF, 10GB GDDR6X, DLSS, LHR, RGB, 19 Gbps, Ray Tracing, LED;R$ ----
+568;Placa de Vídeo RTX 4070 Ti Gaming Gigabyte NVIDIA GeForce, 12 GB GDDR6X, DLSS 3, Ray Tracing - GV-N407TGAMING OC-12GD;R$ ----
+569;Placa de Vídeo  R5 220 PCyes AMD Radeon, 2GB DDR3, 64 Bits, Low Profile - PVR52202GBR364;R$ ----
+570;Placa de Vídeo RTX 3060 Ti FTW3 Ultra Gaming EVGA NVIDIA GeForce, ARGB LED, 8GB GDDR6, DLSS, LHR, Ray Tracing - 08G-P5-3667-KL;R$ ----
+571;Placa de Vídeo RX 6700 XT XFX Speedster QICK319 AMD Radeon Black Gaming, 12GB GDDR6, 16Gbps, AMD RDNA 2 Architecture - RX-67XTYPBDP;R$ ----
+572;Placa de Vídeo RTX 4060 TI Aero OC Gigabyte NVIDIA GeForce, 16GB GDDR6, RGB, DLSS, Ray Tracing - GV-N406TAERO OC-16GD;R$ ----
+573;Suporte para Placa de Vídeo VGA Rise até 2 Placas, Preto - RM-SV-01-BK;R$ ----
+574;Placa de Video RTX 4090 XLR8 Gaming Verto Edition PNY NVIDIA Geforce, 24GB GDDR6X, RGB, DLSS, Ray Tracing - VCG409024TFXXPB1;R$ ----
+575;Placa de Vídeo RTX 3070 Twin Edge Zotac NVIDIA GeForce, 8GB, GDDR6, LHR - ZT-A30700E-10PLHR;R$ ----
+576;Placa de Vídeo RTX 3070 MSI Ventus 3X Plus NVIDIA GeForce, 8GB GDDR6, LHR, DLSS, Ray Tracing - GeForce RTX 3070 VENTUS 3X PLUS 8G OC LHR;R$ ----
+577;Placa de Vídeo AXRX 6600 3DH Power Color Fighter AMD Radeon, 8GB GDDR6, Preto - AXRX 6600 8GBD6-3DH;R$ ----
+578;Placa de Vídeo GT 1030 Gigabyte NVIDIA GeForce, 2GB GDDR5 - GV-N1030D5-2GL;R$ ----
+579;Placa de Vídeo RX 6800 XT ASRock AMD Radeon, 16GB GDDR6  - RADEON RX6800XT PGD 16GO;R$ ----
+580;Placa de Vídeo RTX 4070 Asus OC Edition NVIDIA GeForce, 12 GB GDDR6X, DLSS 3, Ray Tracing - DUAL-RTX4070-O12G;R$ ----
+581;Placa de Vídeo RX 6700 XT GAMING OC 12G Gigabyte Radeon, 12GB GDDR6, RGB Fusion e WindForce, AMD RDNA 2 - GV-R67XTGAMING OC-12GD;R$ ----
+582;Placa de Vídeo RTX 4090 ROG Strix Asus NVIDIA GeForce, 24 GB GDDR6X, ARGB, DLSS, Ray Tracing, Branco - ROG-STRIX-RTX4090-24G-WHITE;R$ ----
+583;Placa de Vídeo RTX 3090 Ventus 3X 24G OC MSI NVIDIA Geforce, 24GB GDDR6X, Ray Tracing, DLSS;R$ ----
+584;Placa de Vídeo RTX 3060 Ti Gaming Gigabyte NVIDIA GeForce, 8GB GDDR6, RGB, DLSS, Ray Tracing - GV-N306TGAMING OC-8GD (rev. 2.0);R$ ----
+585;Placa de Vídeo RX 6900 XT OEM Sapphire AMD Radeon, 16GB GDDR6, 18Gbps, AMD RDNA 2 - 21308-02-10G;R$ ----
+586;Placa de Vídeo RTX 4070 Gaming Trio 12G MSI NVIDIA GeForce, 12GB GDDR6X, HDR, DLSS, G-Sync, Ray Tracing;R$ ----
+587;Placa de Vídeo RTX 3060 Eagle 12G Gigabyte NVIDIA GeForce, rev. 2.0, RGB, 12GB GDDR6, LHR, DLSS, Ray Tracing - GV-N3060EAGLE-12GD;R$ ----
+588;Placa de Vídeo GTX 1660 Zotac Gaming Twin Fan GeForce NVIDIA, 6GB GDDR5 - ZT-T16600M-10M;R$ ----
+589;Placa de Vídeo RTX 2060 KO Ultra Gaming EVGA NVIDIA GeForce, 6 GB GDDR6 - 06G-P4-2068-KR;R$ ----
+590;Placa de Vídeo RX 6500 XT ITX Power Color AMD Radeon, 4GB GDDR6, Ray Tracing - AXRX 6500 XT 4GBD6-DH;R$ ----
+591;Placa de Vídeo RTX 4090 Asus TUF Gaming NVIDIA GeForce, 24 GB GDDR6X, ARGB, DLSS, Ray Tracing - TUF-RTX4090-24G-GAMING;R$ ----
+592;Placa de Vídeo RTX 3090 Gaming OC 24G Gigabyte NVIDIA GeForce, 24GB GDDR6X - GV-N3090GAMING OC-24GD;R$ ----
+593;Placa de Vídeo RX 6400 Gaming Sapphire Pulse AMD Radeon, 4GB GDDR6, HDMI e DisplayPort, Low Profile - 11315-01-20G;R$ ----
+594;Placa de Video RTX 4080 PNY NVIDIA GeForce, 16 GB GDDR6X - VCG408016TFXMPB;R$ ----
+595;Placa de Vídeo RTX 3080 Ti VISION OC 12G Gigabyte NVIDIA GeForce, 12GB GDDR6X, RGB Fusion, Ray Tracing, LHR, DLSS - GV-N308TVISION OC-12GD;R$ ----
+596;Placa de Vídeo RX 7900 XT OC Edition TUF Gaming Asus AMD, 20 GB GDDR6, ARGB - TUF-RX7900XT-O20G-GAMING;R$ ----
+597;Placa de Vídeo RTX 2060 SC Gaming EVGA NVIDIA GeForce, 6 GB GDDR6 - 06G-P4-2062-KR;R$ ----
+598;Placa de Vídeo GTX 1660 Ti O6G EVO OC Asus TUF Gaming NVIDIA Geforce, 6GB GDDR6, Preto - TUF-GTX1660TI-O6G-EVO-GAMING;R$ ----
+599;Placa de Vídeo RTX 4060 Ti Twin X2 OC white Inno3D NVIDIA GeForce, 16Gb GDDR6, Dual fan, DLSS, Ray Tracing, G-Sync - N406T2-16D6X-178055W;R$ ----
+600;Placa de Vídeo RX 7900 XTX Hellhound PowerColor AMD Radeon, 24 GB GDDR6, LED, Ray Tracing - RX7900XTX 24G-L/OC;R$ ----
+601;Placa de Vídeo RTX 4090 Gaming Trio MSI NVIDIA GeForce, 24 GB GDDR6X, DLSS, Ray Tracing - GeForce RTX 4090 24G GAMING TRIO;R$ ----
+602;Placa de Vídeo HD 5450 Pcyes AMD Radeon, 1GB, DDR3, com Kit Low Profile - PJ1G5450R3;R$ ----
+603;Placa de Vídeo Gigabyte AMD Radeon RX 5600 XT Windforce OC 6G, 6GB, GDDR6, (rev 1.0) - GV-R56XTWF2OC-6GD;R$ ----
+604;Placa de Vídeo RX 550 Pcyes AMD Radeon, 4GB, GDDR5, Grafiti Series - PAJRX550DR5DF;R$ ----
+605;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 OC 4G, 4GB GDDR6, Rev 2.0 - GV-N1656OC-4GD;R$ ----
+606;Placa de Vídeo G210 PCYes NVIDIA GeForce, 1 GB DDR3 - PA210G6401D3LP;R$ ----
+607;Placa de Vídeo RTX 3090 Asus NVIDIA GeForce, 24GB, GDDR6X - ROG-STRIX-RTX3090-O24G-GAMING;R$ ----
+608;Placa de Vídeo RX 6900 XT Master 16G Gigabyte Aorus AMD Radeon, rev.2.0, 16GB GDDR6, RGB - GV-R69XTAORUS M-16GD;R$ ----
+609;Placa de Vídeo RX 6650 XT Dual O8G Asus, 8GB GDDR6,  Tecnologia Axis - DUAL-RX6650XT-O8G;R$ ----
+610;Placa de Vídeo Gainward NVIDIA GeForce RTX3070 Phoenix, 8GB, GDDR6 - NE63070019P2-1041X;R$ ----
+611;Placa de Vídeo RX 6700 XT Asus AMD Radeon, 12GB GDDR6, 16 Gbps - TUF-RX6700XT-O12G-GAMING;R$ ----
+612;Placa de Vídeo RX 550 Sapphire AMD Radeon Pulse, 4 GB GDDR5 - 11268-01-20G;R$ ----
+613;Placa de Vídeo RTX 3090 GAMING BOX Gigabyte AORUS, 24GB GDDR6X, RGB Fusion e WaterForce - GV-N3090IXEB-24GD;R$ ----
+614;Placa de Vídeo RTX 2060 D6 Gigabyte NVIDIA GeForce, 6GB GDDR6 - GV-N2060D6-6GD;R$ ----
+615;Placa de Vídeo RTX 3050 Elite 8G Gigabyte NVIDIA GeForce, RGB, 8GB GDDR6, LHR, DLSS, Ray Tracing - GV-N3050AORUS E-8GD;R$ ----
+616;Placa de Vídeo RX 6600 XT Challenger D 8G OC ASRock AMD Radeon, 8GB GDDR6, Arquitetura RDNA, Ray Tracing - RX6600XT CLD 8GO;R$ ----
+617;Placa de Vídeo RTX 3070 Ti 1-Click OC Galax NVIDIA GeForce, 8 GB GDDR6, LHR, DLSS, Ray Tracing - 84733043;R$ ----
+618;Placa de Vídeo GTX 1050 Ti Pcyes NVIDIA GeForce Graffiti Series, 4GB GDDR5, G-Sync - PJ1050TI4GBDF;R$ ----
+619;Placa de Video PNY NVIDIA Geforce RTX 3070, 8GB DDR6, LHR, DLSS - VCG30708LDFMPB1;R$ ----
+620;Placa de Vídeo RX 6500 XT Gaming OC 4G Gigabyte AMD Radeon, 4GB GDDR6, AMD RDNA 2 - GV-R65XTGAMING OC-4GD;R$ ----
+621;Placa de Vídeo RX 6750 XT Dual O12G Asus, 12GB GDDR6 - DUAL-RX6750XT-O12G;R$ ----
+622;Placa de Vídeo RX 6400 XFX Speedster SWFT105 AMD Radeon Gaming, 4GB GDDR6, Ray Tracing, RDNA2 - RX-64XL4SFG2;R$ ----
+623;Placa de Vídeo RX 6650 XT Pulse Gaming OC AMD Sapphire, 8GB GDDR6, Arquitetura RDNA2, Ray Tracing - 11319-03-20G;R$ ----
+624;Placa de Vídeo GTX 1660 Super O6G Gaming OC Asus NVIDIA GeForce TUF, 6GB GDDR6, IP5X - TUF-GTX1660S-O6G-GAMING;R$ ----
+625;Placa de Vídeo RX 550 PCYes AMD Radeon, 4GB GDDR5, Graffiti Series - PJRX550DR5128B;R$ ----
+626;Placa de Vídeo RX 6600 DUAL 8G Asus, 8GB GDDR6 - DUAL-RX6600-8G;R$ ----
+627;Placa de Vídeo GTX 1660 Ti OC Gigabyte NVIDIA GeForce, 6GB GDDR6 - GV-N166TOC-6GD;R$ ----
+628;Placa de Vídeo Pcyes NVIDIA GeForce GTX 1050 Ti, 4 GB GDDR5, 128Bits, Dual Fan, Graffiti Series - PAXGTX1050TI4GBDR5;R$ ----
+629;Placa de Vídeo RX 6750 XT Mech 2X 12G OC MSI AMD, 12 GB GDDR6 - XT MECH 2X 12G OC;R$ ----
+630;Placa de Vídeo RTX 3090 Ti Suprim X MSI NVIDIA GeForce, 24GB GDDR6X, RGB, DLSS, Ray Tracing - GeForce RTX 3090 Ti SUPRIM X 24G;R$ ----
+631;Placa de Vídeo RX 6600 Gaming Sapphire Pulse AMD Radeon, 8GB GDDR6, HDMI - 11310-01-20G;R$ ----
+632;Placa de Vídeo RX 6500 XT Gaming OC Sapphire Pulse, 4GB, GDDR6, AMD - 11314-01-20G;R$ ----
+633;Placa de Vídeo RTX 4060 TI GAMING X 16G MSI NVIDIA GeForce;R$ ----
+634;Placa de Vídeo RTX 2060 Ventus GP OC MSI NVIDIA GeForce, 6GB GDDR6, Ray Tracing - GeForce RTX 2060 VENTUS GP OC;R$ ----
+635;Placa de Vídeo RTX 3080 Zotac GeForce, 10GB, GDDR6X - ZT-A30800J-10P;R$ ----
+636;Placa de Vídeo RTX 3080 V2 OC Edition Asus ROG Strix GeForce, LHR, 10GB GDDR6X, 19 Gbps, Ray Tracing, RGB - ROG-STRIX-RTX3080-O10G-V2-GAMING;R$ ----
+637;Placa de Vídeo RX 6900 XT Gigabyte Radeon, 16 GB, GDDR6, RGB Fusion - GV-R69XTGAMING OC-16GD;R$ ----
+638;Placa de Video RTX 3070 Ti VERTO PNY NVIDIA GeForce, 8 GB GDDR6X, LHR, DLSS, Ray Tracing - VCG3070T8TFBPB1;R$ ----
+639;Placa de Vídeo RTX 3090 EVGA NVIDIA GeForce, 24GB, GDDR6X - 24G-P5-3987-KR;R$ ----
+640;Placa de Vídeo RTX 3060 Ti Twin Edge OC ZOTAC Gaming GeForce, 8 GB GDDR6, LHR, LED Branco,  Ray Tracing - ZT-A30610H-10MLHR;R$ ----
+641;Placa de Vídeo RTX 2060 Ventus MSI NVIDIA GeForce, 12 GB GDDR6, Ray Tracing - RTX 2060 VENTUS 12G OC;R$ ----
+642;Placa de Vídeo MSI NVIDIA GeForce RTX 3060 Gaming X Trio, 12 GB GDDR6, RGB, DLSS, Ray Tracing - GeForce RTX 3060 GAMING X TRIO 12G;R$ ----
+643;Placa de Vídeo RTX 3080 Trinity Zotac NVIDIA GeForce, 10GB GDDR6X, 19 Gbps, LHR, Ray Tracing, DLSS, RGB - ZT-A30800D-10PLHR;R$ ----
+644;Placa de Vídeo PCYes AMD RX 6600. 8GB GDDR6. 128 Bits, Graffiti;R$ ----
+645;Placa de Vídeo RX 6800 XT Gigabyte Radeon, 16 GB, GDDR6, RGB Fusion, PCI Express 4.0 - GV-R68XTGAMING OC-16GD;R$ ----
+646;Placa de Vídeo RX 6750 XT Gaming OC Sapphire Pulse, 12GB GDDR6, Arquitetura RDNA2, Ray Tracing - 11318-03-20G;R$ ----
+647;Placa de Video RTX 3060 Gaming OC Gigabyte GeForce, 12 GB GDDR6, LHR, Ray Tracing - GV-N3060GAMING OC-12GD (rev 2.0);R$ ----
+648;Placa de Vídeo RX 7600 Hellhound Power Color AMD Radeon, 8GB GDDR6 - RX7600 8G-L/OC;R$ ----
+649;Placa de Vídeo RTX 3050 XC Gaming EVGA NVIDIA GeForce, 8GB GDDR6, LHR, DLSS, Ray Tracing - 08G-P5-3553-KR;R$ ----
+650;Placa de Vídeo RX 550 Duex AMD Radeon, 4GB, DDR5 - DXRX5504GB;R$ ----
+651;Placa de Vídeo RTX 3070 Ti V2 OC Edition TUF Gaming Asus NVIDIA GeForce, 8 GB GDDR6X, ARGB, DLSS, Ray Tracing - TUF-RTX3070TI-O8G-V2-GAMING;R$ ----
+652;Placa de Vídeo RTX 3060 Ti 8G Mini V2 Asus Dual NVIDIA Geforce, 8GB GDDR6, RGB, LHR, DLSS, Ray Tracing - DUAL-RTX3060TI-8G-MINI-V2;R$ ----
+653;Placa de Vídeo RTX 3060 OC Edition Asus Dual GeForce, 8 GB GDDR6, DLSS, Ray Tracing - DUAL-RTX3060-O8G;R$ ----
+654;Placa de Vídeo GT 1030 EVGA NVIDIA GeForce SC 2GB, GDDR5 - 02G-P4-6333-KR;R$ ----
+655;Placa de Vídeo RTX 4060 Ti Gaming OC 8G Gigabyte NVIDIA GeForce, 8GB GDDR6, 128bits, RGB, DLSS, Ray Tracing - GV-N406TGAMING OC-8GD;R$ ----
+656;Placa de Vídeo RTX 4080 Extreme Air ZOTAC NVIDIA GeForce, 16 GB GDDR6X, DLSS, Ray Tracing - ZT-D40810B-10P;R$ ----
+657;Placa de Vídeo RTX 4060 Ti Eagle OC Gigabyte NVIDIA GeForce, 8 GB GDDR6,  DLSS, Ray Tracing - GV-N406TEAGLE OC-8GD G10;R$ ----
+658;Placa de Vídeo RTX 4090 Zotac NVIDIA Gaming GeForce AMP Extreme AIRO, 24 GB GDDR6X, ARGB, DLSS, Ray Tracing - ZT-D40900B-10P;R$ ----
+659;Placa de Vídeo N210 MSI NVIDIA GeForce, 1GB DDR3 - N210-MD1G/D3;R$ ----
+660;Suporte para Placa de Video Rise Mode, Hell -RM-SV-01-HL;R$ ----
+661;Placa de Vídeo RX 7800 XT Red Devil PowerColor AMD Radeon, 16GB GDDR6, ARGB, Ray Tracing - RX7800XT 16G-E/OC;R$ ----
+662;Placa de Vídeo RTX 3060 Ti Gaming X MSI NVIDIA GeForce, 8GB GDDR6, 14Gbps, RGB, LHR, DLSS, Ray Tracing - 912-V397-234;R$ ----
+663;Placa de Vídeo RX 7800 XT Steel Legend 16G OC ASRock AMD Radeon, 16GB GDDR6 - 90-GA4RZZ-00UANF;R$ ----
+664;Placa de Vídeo RTX 3060 Ti Ghost Gainward, 8GB GDDR6, 256 Bits - NE6306T019P2-190AB;R$ ----
+665;Placa de Vídeo RTX 4060 TI OC Edition NVIDIA GeForce, 16GB GDDR6, DLSS, Ray Tracing - 90YV0JH0-M0NA00;R$ ----
+666;Placa de Vídeo GT 710 Galax NVIDIA GeForce, 1 GB DDR3 - 71GGF4DC00WG;R$ ----
+667;Placa de Vídeo RX 6750 XT XFX Speedster MERC319 AMD Radeon Black Gaming, 12GB GDDR6, Ray Tracing, RDNA2 - RX-675XYTBDP MERC319 BLACK;R$ ----
+668;Placa de Vídeo RTX 3080 Ti XC3 ULTRA GAMING EVGA GeForce, 12GB GDDR6X, ARGB LED, Metal Backplate, DLSS, Ray Tracing - 12G-P5-3955-KR;R$ ----
+669;Placa de Vídeo RTX 3060 Twin Edge Zotac Gaming GeForce, 12GB GDDR6, 15 Gbps, Ray Tracing - ZT-A30600E-10M;R$ ----
+670;Placa de Vídeo RTX 3060 Asus O12G V2 Gaming OC Edition NVIDIA GeForce, 12GB GDDR6, DLSS, Ray Tracing - ROG-STRIX-RTX3060-O12G-V2-GAMING;R$ ----
+671;Placa de Vídeo Gigabyte AMD Radeon RX 6700 XT Eagle, 12GB GDDR6, RGB, Ray Tracing - GV-R67XTEAGLE-12GD;R$ ----
+672;Placa de Vídeo RTX 4070 EX Gamer White GALAX NVIDIA GeForce, 12 GB GDDR6X, DLSS, Ray Tracing, Branco - 47NOM7MD7KWH;R$ ----
+673;Placa de Vídeo GTX 1660 Super Twin Fan Zotac Gaming NVIDIA GeForce, 6 GB GDDR6 - ZT-T16620F-10L;R$ ----
+674;Placa de Vídeo RTX 4070 VERTO EPIC-X XLR8 Gaming PNY NVIDIA GeForce, 12GB GDDR6X, RGB, DLSS, Ray Tracing - VCG407012TFXXPB1;R$ ----
+675;Placa de Vídeo GTX 1660 SC Ultra Gaming EVGA NVIDIA GeForce, 6GB GDDR5 - 06G-P4-1067-KR;R$ ----
+676;Placa de Vídeo RX 6600 XT NITRO+ OC Sapphire, 8GB GDDR6, AMD RDNA 2 Architecture - 11309-01-20G;R$ ----
+677;Placa de Vídeo RTX 3080 Trinity Zotac Gaming NVIDIA GeForce, 12GB GDDR6X, LHR, RGB, DLSS, Ray Tracing - ZT-A30820D-10PLHR;R$ ----
+678;Placa de Vídeo RX 6500 XT Gaming D OC ASRock Radeon Phantom, 4GB, GDDR6, 64 Bit, Dual Fan - 90-GA3DZZ-00UANF;R$ ----
+679;Placa de Vídeo GT 740 PCYes, 4GB, GDDR5 - PA740GT12804D5FZ;R$ ----
+680;Placa de Vídeo RTX 3060 Ti XC Gaming, EVGA NVIDIA GeForce 8GB GDDR6, DLSS, Ray Tracing, Metal Backplate, LHR - 08G-P5-3663-KL;R$ ----
+681;Placa de Vídeo RX 6700 XT Asus AMD Radeon, 12GB GDDR6, 16 Gbps - ROG-STRIX-RX6700XT-O12G-GAMING;R$ ----
+682;Placa de Vídeo RTX 3060 Ti Vision OC Gigabyte NVIDIA GeForce, 8GB GDDR6, RGB, LHR, DLSS, Ray Tracing - GV-N306TVISION OC-8GD;R$ ----
+683;Placa de Vídeo PNY GeForce RTX 4090 XLR8 Gaming Verto Epic-x NVIDIA GeForce RGB, 24 GB GDDR6X, DLSS, Ray Tracing - VCG409024TFXXPB1-O;R$ ----
+684;Placa de Vídeo RX 7600 OC Edition Asus AMD Radeon, 8 GB GDDR6, Tecnologia 0dB - DUAL-RX7600-O8G;R$ ----
+685;Placa de Vídeo Power Color Red Devil AMD Radeon RX 6950 XT, 16 GB GDDR6, ARGB - AXRX 6950XT 16GBD6-3DHE/OC;R$ ----
+686;Placa de Vídeo RTX 3060 Ti Twin Edge Zotac NVIDIA GeForce, 8GB GDDR6, 14 Gbps, LHR, DLSS, Ray Tracing - ZT-A30610E-10MLHR;R$ ----
+687;Placa de Vídeo RTX 4080 Gaming OC Gigabyte NVIDIA GeForce, 16 GB GDDR6X, DLSS, Ray Tracing - 9VN4080GO-00-10;R$ ----
+688;Placa de Vídeo Zotac Gaming NVIDIA GeForce RTX 2060, 6GB, GDDR6 - ZT-T20600H-10M;R$ ----
+689;Placa de Vídeo GT 210 Galax NVIDIA GeForce, 1GB DDR3, 64 Bits - 21GGF4HI00NP;R$ ----
+690;Placa de Video PNY NVIDIA Geforce RTX 4080 XLR8 Gaming Verto Edition, 16 GB GDDR6X, RGB, DLSS, Ray Tracing - VCG408016TFXXPB1;R$ ----
+691;Placa de Vídeo RX 5500 XT OC Gigabyte AMD Radeon, 4GB, GDDR6 - GV-R55XTOC-4GD;R$ ----
+692;Placa de Vídeo RTX 3070 O8G V2 Gaming Asus NVIDIA GeForce ROG Strix, 8GB GDDR6, DLSS, LHR, Ray Tracing, RGB;R$ ----
+693;Placa de Vídeo GTX 1650 PNY NVIDIA GeForce Single Fan, 4 GB GDDR6 - VCG16504D6SFMPB;R$ ----
+694;Placa de Vídeo RX 570 Gaming Gigabyte AMD Radeon, 4GB, GDDR5, REV 2.0 - GV-RX570GAMING-4GD;R$ ----
+695;Placa de Vídeo RTX 3060 Gaming X MSI NVIDIA GeForce, 12GB GDDR, RGB, DLSS, Ray Tracing - 912-V397-019;R$ ----
+696;Placa de Video PowerColor Radeon Red Devil RX 6800XT, 16GB, GDDR6 - RX 6800 XT 16GB GDDR6;R$ ----
+697;Placa de Vídeo RTX 4060 Ti Aero OC 8G Gigabyte NVIDIA GeForce, 8GB GDDR6, 128bits, RGB, DLSS, Ray Tracing - GV-N406TAERO OC-8GD;R$ ----
+698;Placa de Vídeo RTX 3080 Serious Gaming Galax NVIDIA GeForce, 10GB GDDR6X, LHR, RGB, DLSS, Ray Tracing - 38NWM3MD99RG;R$ ----
+699;Placa de Vídeo R7 240 PCYes AMD Radeon, 4GB GDDR5, 128 Bits - PJ7R240DR5;R$ ----
+700;Placa de Vídeo RX 7800 XT Challenger 16G OC ASRock AMD Radeon, 16GB, GDDR6, RDNA 3, Ray Tracing - 90-GA4SZZ-00UANF;R$ ----
+701;Placa de Vídeo RTX 3090 O24G Gaming Asus NVIDIA ROG Strix GeForce, RGB, 24 GB GDDR6X, DLSS, Ray Tracing - 90YV0F93-M0NA00;R$ ----
+702;Placa de Vídeo RTX 3090 Ti EX Gamer Galax NVIDIA GeForce, RGB, 24GB GDDR6X, DLSS, Ray Tracing - 39IXM5MD6HEX;R$ ----
+703;Placa de Vídeo RTX 3060 O12G V2 Gaming Asus TUF, 12GB GDDR6, RGB,  LHR, DLSS, Ray Tracing - TUF-RTX3060-O12G-V2-GAMING;R$ ----
+704;Placa de Vídeo RTX 3050 Pegasus Gainward NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing - NE63050019P1-190AE;R$ ----
+705;Placa de Vídeo RTX 3080 XC3 Ultra Gaming EVGA NVIDIA GeForce, 10GB GDDR6X, iCX3 Cooling, ARGB LED, LHR, DLSS, Ray Tracing - 10G-P5-3885-KL;R$ ----
+706;Placa de Vídeo GTX 1650 OC Gigabyte NVIDIA GeForce, 4GB GDDR5 - GV-N1650OC-4GD;R$ ----
+707;Placa de Vídeo GTX 1050 Ti Asus NVIDIA GeForce OC Cerberus, 4GB GDDR5 - CERBERUS-GTX1050TI-O4G;R$ ----
+708;Placa de Vídeo RTX 3080 Ti Gaming Gigabyte NVIDIA GeForce, 12GB GDDR6X, RGB, DLSS, Ray Tracing - GV-N308TGAMING OC-12GD;R$ ----
+709;Placa de Vídeo RTX 3060 Ti Ventus 2X 8 MSI NVIDIA GeForceG, 14Gbps, GDDR6, OCV1, LHR, DLSS, Ray Tracing;R$ ----
+710;Placa de Vídeo GTX 1050 Ti Gigabyte NVIDIA GeForce D5, 4GB GDDR5 - GV-N105TD5-4GD;R$ ----
+711;Placa de Vídeo RTX 3060 Twin Edge OC Zotac Gaming GeForce, 12GB GDDR6, 15 Gbps, Ray Tracing - ZT-A30600H-10M;R$ ----
+712;Placa de Vídeo RTX 3080 Ti FTW3 ULTRA GAMING LHR EVGA GeForce, 12GB GDDR6X, ARGB LED, Metal Backplate, DLSS, Ray Tracing - 12G-P5-3967-KR;R$ ----
+713;Placa de Vídeo RX 7900 XTX Asus AMD, 24GB, GDDR6, Ray Tracing - RX7900XTX-24G;R$ ----
+714;Placa de Vídeo RTX 2060 Plus 1-Click OC Galax NVIDIA, 6GB GDDR6, LED, Ray Tracing - 26NRL7HP68CX;R$ ----
+715;Placa de Vídeo RX 7900 XTX AMD Radeon Power Color, 24 GB GDDR6,  Ray Tracing - RX7900XTX 24G;R$ ----
+716;Placa de Vídeo RX 6600 XFX Core Gaming Speedster SWFT 210 AMD Radeon Graphics Card, 8GB GDDR6, AMD RDNA 2 - RX-66XL8LFDQ;R$ ----
+717;Placa de Vídeo RTX 3060 KO OC V2 Edition Asus NVIDIA GeForce, 12G GDDR6, 15Gbps, LHR, ARGB, DLSS, Ray Tracing - 90YV0GC7-M0NA10;R$ ----
+718;Placa de Vídeo RTX 4090 Suprim Liquid X MSI NVIDIA Geforce, 24 GB GDDR6X, DLSS, Ray Tracing - Geforce RTX 4090 SUPRIM LIQUID X 24G;R$ ----
+719;Placa de Vídeo RTX 4060 VERTO Dual Fan PNY NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing  - VCG40608DFXPB1;R$ ----
+720;Placa de Vídeo GTX 1660 Super OC Gigabyte NVIDIA Geforce, 6GB GDDR6 - GV-N166SOC-6GD;R$ ----
+721;Placa de Vídeo RTX 3090 Turbo 24G Gigabyte NVIDIA GeForce, 24GB GDDR6X, DLSS, Ray Tracing - GV-N3090TURBO-24GD;R$ ----
+722;Placa de Vídeo RTX 4060 TI O16G Gaming ROG-STRIX NVIDIA GeForce, 16GB GDDR6, ARGB, DLSS, Ray Tracing - 90YV0JI0-M0NA00;R$ ----
+723;Placa de Vídeo RTX 2060 Ventus GP OC MSI NVIDIA GeForce, 6GB GDDR6, 3x DisplayPort, HDMI - 912-V375-808;R$ ----
+724;Placa de Vídeo Afox AMD R5 220 Radeon, 2GB, Low Profile - AFR5220-2048D3L9-V2;R$ ----
+725;Placa de Vídeo GT 210 VGA NVIDIA MSI GEFORCE 1GB DDR3 N210-MD1G/D3;R$ ----
+726;Placa de Vídeo RTX 3060 EVGA GeForce XC GAMING, 12GB GDDR6, DualFan, Metal Backplate, DLSS, Ray Tracing - 12G-P5-3657-KR;R$ ----
+727;Placa de Vídeo RX 6900 XT ASUS TUF GAMING Radeon, 16GB GDDR6, 16 Gbps - TUF-RX6900XT-O16G-GAMING;R$ ----
+728;Placa de Vídeo GT 710 EVGA NVIDIA GeForce 2GB, DDR3 - 02G-P3-2713-KR;R$ ----
+729;Placa de Vídeo GT 1030 EVGA NVIDIA GeForce SC 2GB, GDDR5 - 02G-P4-6338-KR;R$ ----
+730;Placa de Vídeo RX 550 ASRock AMD Radeon Phantom Gaming, 2GB GDDR5 - 90-GA0500-00UANF;R$ ----
+731;Placa de Vídeo GTX 1660 Asus Phoenix NVIDIA GeForce 6GB, GDDR5 - PH-GTX1660-O6G;R$ ----
+732;Placa de Vídeo RX 570 PowerColor AMD Radeon, 4GB, GDDR5 - AXRX 570 4GBD5-DHDV3/OC;R$ ----
+733;Placa de Vídeo Quadro P1000 PNY NVIDIA, 4GB, GDDR5 - VCQP1000V2-PB;R$ ----
+734;Placa de Vídeo RX 6700 XT XFX Speedster MERC319 AMD Radeon Black Gaming, 12GB GDDR6, 16Gbps, AMD RDNA 2 Architecture - RX-67XTYTBDP;R$ ----
+735;Placa de Vídeo RX 6900 XT XFX SPEEDSTER MERC319 AMD Radeon Limited Black Gaming, 16GB GDDR6, 16 Gbps, AMD RDNA 2 - RX-69XTACSD9;R$ ----
+736;Placa de Vídeo RX 6600 XT Sapphire PULSE OC, 8GB GDDR6, AMD RDNA 2 Architecture - 11309-03-20G;R$ ----
+737;Placa de Vídeo RX 6600 XT O8G Asus Dual, 8GB GDDR6, 16 Gbps - 90YV0GN1-M0NA00;R$ ----
+738;Placa de Vídeo RX 560 Afox Radeon, 4GB DDR5, 128Bit, ATX Dual Fan, HDMI/DisplayPort, Preto - AFRX560-4096D5H4-V2;R$ ----
+739;Placa de Vídeo GTX 1050 Pcyes NVIDIA GeForce, 2GB GDDR5, Dual Fan, Graffiti Series - PA10502GBDF128;R$ ----
+740;Placa de Vídeo GTX 750 PCYes NVIDIA GeForce, 2GB GDDR5, 128 Bits Dual-Fan, Full Size, Preto - PA750DR5128DF;R$ ----
+741;Placa de Vídeo RX 550 PCYes AMD Radeon, 4GB GDDR5, 128 Bits Dual Fan, Graffiti Series, Preto - PAXRX550DR5DF;R$ ----
+742;VGA Gecube 512MB ATI Radeon X1650 DDR 2 AGP;R$ ----
+743;Placa de Captura Pinnacle Áudio/Vídeo Dazzle TV;R$ ----
+744;VGA MSI 256MB NX8400GS-TD256E Geforce PCI-Express;R$ ----
+745;Placa de Vídeo VGA EVGA GeForce 8400GS 1GB DDR3 PCI-E 2.0 01G-P3-1303-KR;R$ ----
+746;Placa de Vídeo RX 470 PowerColor AMD Radeon Red Dragon 4GB, GDDR5 - AXRX 470 4GBD5-3DHD/OC;R$ ----
+747;Placa de Vídeo GTX 1060 Gigabyte NVIDIA GeForce WindForce OC, 6GB GDDR5 - GV-N1060WF2OC-6GD;R$ ----
+748;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1050 Ti OC 4G, GDDR5 - GV-N105TOC-4GD;R$ ----
+749;Placa de Vídeo GTX 1050 EVGA NVIDIA GeForce SSC Gaming 2GB, GDDR5 - 02G-P4-6152-KR;R$ ----
+750;Placa de Vídeo GTX 1050 Ti Gigabyte NVIDIA GeForce OC 4GB, GDDR5 - GV-N105TOC-4GL;R$ ----
+751;Placa de Vídeo RX 570 MSI AMD Radeon Armor 4G OC, 4GB GDDR5;R$ ----
+752;Placa de Vídeo PowerColor AMD Radeon RX 580 Red Devil 8GB, GDDR5 - AXRX 580 8GBD5-3DH/OC;R$ ----
+753;Placa de Vídeo VGA NVIDIA GIGABYTE GEFORCE GT 1030 2GB OC GDDR5 GV-N1030OC-2GI;R$ ----
+754;Placa de Vídeo Zotac NVIDIA GeForce GT 710 1GB, DDR3 - ZT-71304-20L;R$ ----
+755;Placa de Vídeo VGA Gigabyte NVIDIA Geforce RTX 2080 Ti Gaming 11GB, GDDR6, 352 bits, PCI-E 3.0 - GV-N208TGAMING OC-11GC;R$ ----
+756;Placa de Vídeo 6570 Plus XFX AMD One Series 2GB , DDR3 - ON-XFX1-PLUS;R$ ----
+757;Placa de Vídeo EVGA NVIDIA GeForce RTX 2060 XC 6GB, GDDR6 - 06G-P4-2063-KR;R$ ----
+758;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Mini ITX OC 6G, GDDR6 - GV-N2060IXOC-6GD;R$ ----
+759;Placa de Vídeo R7 240 PCYes AMD Radeon 2GB, DDR5 - PW240R712802D5;R$ ----
+760;Placa de Vídeo GTX 1660 Ti Zotac NVIDIA GeForce AMP 6GB, GDDR6 - ZT-T16610D-10M;R$ ----
+761;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Gaming OC Pro 6G, GDDR6 - GV-N2060GAMINGOC PRO-6GD;R$ ----
+762;Placa de Vídeo GTX 1660 XC Ultra Gaming EVGA NVIDIA GeForce  6GB, GDDR5 - 06G-P4-1167-KR;R$ ----
+763;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Ti Gaming OC 6G, GDDR6 - GV-N166TGAMING OC-6GD;R$ ----
+764;Placa de Vídeo Gigabyte Aorus NVIDIA GeForce RTX 2080 Ti Xtreme 11G, GDDR6 - GV-N208TAORUS X-11GC;R$ ----
+765;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 WINDFORCE OC 4G, GDDR5 - GV-N1650WF2OC-4GD;R$ ----
+766;Placa de Vídeo PCYes NVIDIA GeForce GT 710 2GB, DDR3 - PA710GT6402D3LP;R$ ----
+767;Placa de Vídeo PowerColor Red Dragon AMD Radeon RX 550 2GB, GDDR5 - AXRX 550 2GBD5-DHA/OC;R$ ----
+768;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 WindForce 6G, GDDR6 - GV-N2060WF2-6GD;R$ ----
+769;Placa de Vídeo GTX 1650 SC Ultra Gaming EVGA NVIDIA GeForce 4GB, GDDR5 - 04G-P4-1057-KR;R$ ----
+770;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super Windforce OC 8G, GDDR6 - GV-N206SWF2OC-8GD;R$ ----
+771;Placa de Video ASrock Phantom Gaming D Radeon RX570 8G OC, 8GB GDDR5;R$ ----
+772;Placa de Video Asrock Phantom Gaming D Radeon RX570 4G, GDDR5;R$ ----
+773;Placa de Vídeo RX 560 PowerColor Red Dragon AMD Radeon 2GB, GDDR5 - AXRX 560 2GBD5-DHAV2;R$ ----
+774;Placa de Vídeo R5 230 PCYes AMD Radeon, 2GB, DDR3 - PA230R56402D3LP;R$ ----
+775;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2080 Super Gaming OC, 8GB, GDDR6 - GV-N208SGAMING OC-8GC;R$ ----
+776;Placa de Vídeo Gigabyte AMD Radeon RX 5700 XT Gaming OC, 8GB, GDDR6 - GV-R57XTGAMING OC-8GD;R$ ----
+777;Placa de Vídeo Gigabyte AMD Radeon RX 5700 Gaming OC, 8GB, GDDR6 - GV-R57GAMING OC-8GD;R$ ----
+778;Placa de Video ASRock Phantom Gaming X AMD Radeon RX580 8G OC, 8GB GDDR5;R$ ----
+779;Placa de Vídeo R7 240 PCYes AMD Radeon, 4GB, GDDR5 - PJ240R71284GD5;R$ ----
+780;Placa de Vídeo EVGA NVIDIA GeForce GTX 1660 Super SC Ultra Gaming, 6GB, GDDR6 - 06G-P4-1068-KR;R$ ----
+781;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Super Windforce OC 4G, GDDR6 - GV-N165SWF2OC-4GD;R$ ----
+782;Placa de Vídeo Gigabyte AMD Radeon RX 5500 XT Gaming OC 8GB, GDDR6 - GV-R55XTGAMING OC-8GD;R$ ----
+783;Placa de Vídeo Gigabyte AMD Radeon RX 5500 XT OC 8GB, GDDR6 - GV-R55XTOC-8GD;R$ ----
+784;Placa de Vídeo RTX 2080 Super Gaming OC Waterforce WB Gigabyte NVIDIA GeForce, 8GB GDDR6 - GV-N208SGAMINGOC WB-8GD;R$ ----
+785;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1660 Super Gaming OC, 6GB, GDDR6 - GV-N166SGAMING OC-6GD;R$ ----
+786;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 Super OC, 4GB, GDDR6 - GV-N165SOC-4GD;R$ ----
+787;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 OC Low Profile, 4GB, GDDR5 - GV-N1650OC-4GL;R$ ----
+788;Placa de Vídeo Gigabyte AMD Radeon RX 5500 XT Gaming OC, 4GB, GDDR6 - GV-R55XTGAMING OC-4GD;R$ ----
+789;Placa de Vídeo Gigabyte AMD Radeon RX 5600 XT Gaming OC, 6GB, GDDR6 - GV-R56XTGAMING OC-6GD;R$ ----
+790;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2070 Super Windforce 3X, 8GB, GDDR6 - GV-N207SWF3-8GD;R$ ----
+791;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 OC, 6GB, GDDR6, REV 2.0 - GV-N2060OC-6GD;R$ ----
+792;Placa de Vídeo RX 5600 XT Phantom Gaming D2 OC ASRock AMD Radeon, 6GB, DDR6 - 90-GA1WZZ-00UANF;R$ ----
+793;Placa de Vídeo RX 5600 XT Challenger D OC ASRock AMD Radeon, 6GB, DDR6 - 90-GA1XZZ-00UANF;R$ ----
+794;Placa de Vídeo Gigabyte AMD Radeon RX 580 Gaming, 8GB, GDDR5, REV 2.0 - GV-RX580GAMING-8GD REV2.0;R$ ----
+795;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Windforce OC, 6GB, GDDR6, REV 2.0 - GV-N2060WF2OC-6GD (Rev 2.0);R$ ----
+796;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Gaming OC Pro, 6GB, GDDR6, REV 2.0 - GV-N2060GAMINGOC PRO-6GD REV2.0;R$ ----
+797;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Mini ITX, 6GB, GDDR6 - GV-N2060IX-6GD;R$ ----
+798;Placa de Vídeo ASRock AMD Radeon RX 5500 XT Challenger D 4G OC, 4GB, GDDR6 - RX5500XT CLD 4GO;R$ ----
+799;Case para Placa de Vídeo Asus ROG XG Station 2 - 90YV09B1-M0SA00;R$ ----
+800;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 WindForce 4G, 4GB, GDDR5 - GV-N1650WF2-4GD;R$ ----
+801;Placa de Vídeo GTX 1650 0C Gigabyte NVIDIA GeForce D6 4G, 4GB, GDDR6 - GV-N1656OC-4GD;R$ ----
+802;Placa de Vídeo GT 730 Gigabyte NVIDIA GeForce, 2GB GDDR5 - GV-N730D5-2GI (rev 2.0);R$ ----
+803;Placa de Vídeo Gigabyte AMD Radeon RX570 Gaming 8G, 8GB, GDDR5, REV 2.0 - GV-RX570GAMING-8GD;R$ ----
+804;Placa de Vídeo PowerColor AMD Radeon RX 550, 4GB, DDR5 - AXRX 550 4GBD5-DH;R$ ----
+805;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super Gaming 8G, 8GB, GDDR6 - GV-N206SGAMING-8GC;R$ ----
+806;Placa de Vídeo ASRock AMD Radeon RX 5500 XT Phantom Gaming D 8G OC, 8GB, GDDR6 - RX5500XT PGD 8GO;R$ ----
+807;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 OC Low Profile 4G, 4GB, GDDR6 - GV-N1656OC-4GL;R$ ----
+808;Placa de Vídeo GTX 1650 SC Ultra GDDR6 Gaming EVGA NVIDIA GeForce, 4GB, GDDR6 - 04G-P4-1257-KR;R$ ----
+809;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 Super WindForce 8G, GDDR6, Rev 1.1 ? GV-N206SWF2-8GD;R$ ----
+810;Placa de Vídeo GTX 1650 OC Edition Asus Phoenix NVIDIA GeForce, 4GB, GDDR6 - PH-GTX1650-O4GD6;R$ ----
+811;Placa de Vídeo Gigabyte Radeon RX 5500 XT D6, AMD/ATI, 4G, GDDR6 - GV-R55XTD6-4GD;R$ ----
+812;Placa de Vídeo Gigabyte Radeon RX 5500 XT D6, AMD/ATI, 8G, GDDR6 - GV-R55XTD6-8GD;R$ ----
+813;Placa de Vídeo Gigabyte Radeon Windforce RX 5600 XT, AMD/ATI, 6GB - GV-R56XTWF2-6GD (rev 1.0);R$ ----
+814;Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 WINDFORCE OC, 4G, GDDR6, Rev. 2.0 - GV-N1656WF2OC-4GD;R$ ----
+815;Placa de Vídeo RTX 3080 Ventus 3X 10G OC MSI NVIDIA Geforce, GDDR6X;R$ ----
+816;Placa de Vídeo RTX 3080 EVGA NVIDIA GeForce, 10GB, GDDR6X - 10G-P5-3897-KR;R$ ----
+817;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3080, 10GB, GDDR6X - GV-N3080EAGLE OC-10GD;R$ ----
+818;Placa de Vídeo Gigabyte AMD Radeon RX 5600 XT WINDFORCE 6G, GDDR6 (Rev. 2.0) - GV-R56XTWF2-6GD;R$ ----
+819;Placa de Vídeo Asus NVIDIA GeForce TUF Gaming RTX 3070, O8G, GDDR6 - TUF-RTX3070-O8G-GAMING;R$ ----
+820;Placa de Vídeo RTX 3070 Twin Edge OC Zotac NVIDIA GeForce, 8GB, GDDR6 - ZT-A30700H-10P;R$ ----
+821;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3090 Eagle OC, 24gb, GDDR6X - GV-N3090EAGLEOC-24GD;R$ ----
+822;Placa de Vídeo RTX 3070 Vision OC 8G Gigabyte NVIDIA GeForce, 8GB GDDR6, LHR - GV-N3070VISION OC-8GD (rev. 2.0);R$ ----
+823;Placa de Vídeo RTX 3070 Master Gigabyte NVIDIA Aorus GeForce, 8GB GDDR6 - GV-N3070AORUS M-8GD;R$ ----
+824;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3060 Ti, 8GB, AORUS Master - GV-N306TAORUS M-8GD;R$ ----
+825;Placa de Vídeo RTX 3060 Ti Gigabyte NVIDIA GeForce, 8GB, LHR, GAMING OC PRO - (Rev 3.0) - GV-N306TGAMINGOC PRO-8GD;R$ ----
+826;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3060 Ti, 8GB, GAMING OC - GV-N306TGAMING OC-8GD;R$ ----
+827;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3060 Ti, 8GB, EAGLE OC - GV-N306TEAGLE OC-8GD;R$ ----
+828;Placa de Vídeo Gigabyte NVIDIA GeForce RTX 3090 Vision OC, 24GB GDDR6X - GV-N3090VISION OC-24GD;R$ ----
+829;Placa de Vídeo Gigabyte NVIDIA AORUS GeForce RTX 3080 Master, 10GB, GDDR6X - GV-N3080AORUS M-10GD;R$ ----
+830;Placa de Vídeo PCYES AMD Radeon RX 550, 4GB GDDR5, 128 Bits, Graffiti Series - PJRX550R5SF;R$ ----
+831;Placa de Vídeo GT 730 PCYes, 2GB, DDR3 -  PA7302DR364LP;R$ ----
+832;Placa de Video Gigabyte Aorus Radeon RX6800 XT, 16 GB, GDDR6, RGB - GV-R68XTAORUS M-16GC;R$ ----
+833;Placa de Vídeo XFX RX 550, 4GB, DDR5 - RX-550P4PFG5;R$ ----
+834;Placa de Vídeo RX 6700 XT Sapphire NITRO+ RADEON, 12GB - 11306-01-20G;R$ ----
+835;Placa de Vídeo ASRock RX 6700 XT Phantom Gaming D 12G OC, 16 Gbps, 12GB GDDR6, AMD RDNA 2 Architecture, Polychrome SYNC - RX6700XT PGD 12GO;R$ ----
+836;Placa de Vídeo RX 6700 XT Challenger Pro 12G OC ASRock, 12GB GDDR6, 16 Gbps, AMD RDNA 2 Architecture - RX6700XT CLP 12GO;R$ ----
+837;Placa de Vídeo Gigabyte GeForce RTX 3080 Ti GAMING OC 12G LHR, 12GB GDDR6X, RGB Fusion, Ray Tracing - GV-N308TGAMING OC-12GD;R$ ----
+838;Placa de Vídeo RX 6900 XT LC T16G Gaming Asus ROG Strix, 16GB GDDR6, 16 Gbps, RGB, RDNA 2 Architecture - 90YV0GF1-M0NA00;R$ ----
+839;Placa de Vídeo RX 6800 XT XFX Speedster MERC319 AMD Radeon CORE Gaming, 16GB GDDR6, 16Gbps, AMD RDNA 2 Architecture - RX-68XTALFD9;R$ ----
+840;Placa de Vídeo RTX 3090 Xtreme Waterforce Gigabyte Aorus NVIDIA GeForce, RGB, 24G, GDDR6X, DLSS, Ray Tracing - GV-N3090AORUSX W-24GD;R$ ----
+841;Placa de Vídeo Gigabyte Aorus Radeon RX 6700 XT Elite 12G, RGB, GDDR6, DLSS, Ray Tracing - GV-R67XTAORUS E-12GD;R$ ----
+842;Placa de Vídeo RTX 3060 Ti KO V2 OC Gaming Asus NVIDIA GeForce, LHR, 8GB GDDR6, 14Gbps, Ray Tracing, DLSS, RGB, Preto - 90YV0G1G-M0NA00;R$ ----
+843;Placa de Vídeo RX 6600 XT XFX Speedster QICK308 AMD Radeon, 8GB GDDR6, 16Gbps, AMD RDNA 2 Architecture - RX-66XT8LBDQ;R$ ----
+844;Placa de Vídeo GTX 1050 Ti 1-Click OC Galax NVIDIA GeForce, 4GB, DDR5, Dual Fan, Preto - 50IQH8DSQ3CC;R$ ----
+845;Placa de Vídeo Afox Radeon RX 560, 4GB DDR5, 128Bit, ATX Dual Fan, HDMI/DisplayPort, Preto - AFRX560-4096D5H4;R$ ----
+846;Placa de Vídeo MSI Radeon RX 6600 XT Gaming X 8G, 16 Gbps, 8GB GDDR6 - Radeon RX 6600 XT GAMING X 8G;R$ ----
+847;Placa de Vídeo EVGA GeForce RTX 3070 Ti XC3 Ultra Gaming, ARGB LED, 8GB GDDR6X, iCX3 Cooling, DLSS, Ray Tracing - 08G-P5-3785-KL;R$ ----
+848;Placa de Vídeo RX 6700 XT Sapphire Pulse AMD Radeon, 12GB GDDR6, OC, Ray Tracing, Preto - 11306-05-20G;R$ ----
+849;Placa de Vídeo GTX 1660 Ti XC Ultra Black Gaming EVGA NVIDIA GeForce, 6GB GDDR6, Dual HDB Fans - 06G-P4-1265-KR;R$ ----
+850;Placa de Vídeo Asus Rog Strix RTX 3080 10G V2 Gaming, LHR, DLSS, Ray Tracing, Preto - 90YV0FA8-M0NA00;R$ ----
+851;Placa de Vídeo MSI NVIDIA GeForce GTX 1050 Ti 4GT OC, 4GB, GDDR5 - 912-V809-2272;R$ ----
+852;Placa de Vídeo RTX 3080 GAMING BOX Aorus NVIDIA Geforce, rev. 2.0, 10GB GDDR6X, LHR, Ray Tracing - GV-N3080IXEB-10GD;R$ ----
+853;Placa de Vídeo RTX 2060 EVO OC Edition Asus Dual NVIDIA GeForce, 12GB, GDDR6, Ray Tracing - 90YV0CH7-M0NA00;R$ ----
+854;Placa de Vídeo GTX 1050 Ti PCyes NVIDIA Geforce, 4GB GDDR5, Graffiti Series - PJGF1050TI4GB / 107744;R$ ----
+855;Placa de Vídeo RTX 3050 Gaming OC Asus NVIDIA GeForce ROG Strix, 8GB, GDDR6 - 90YV0HI1-M0NA00;R$ ----
+856;Placa de Vídeo RTX 3050 Twin Edge Zotac Gaming NVIDIA Geforce, 8GB, GDDR6, LHR, Ray Tracing, VR Ready - ZT-A30500E-10M;R$ ----
+857;Placa de Vídeo RX 6500 XT XFX Speedster QICK210 AMD Radeon, 4GB GDDR6, Ray Tracing, RDNA 2 - RX-65XT4DBDQ;R$ ----
+858;Placa de Vídeo W5500 Pro AMD Radeon, 8GB GDDR6, RDNA Architecture - 100-506095;R$ ----
+859;Placa de Vídeo RTX 3080 EAGLE Gigabyte NVIDIA GeForce, 10GB GDDR6X, RGB, DLSS, Ray Tracing - GV-N3080EAGLE-10GD;R$ ----
+860;Placa de Vídeo RTX 3060 Ti GAMING 8G Gigabyte NVIDIA GeForce, rev. 2.0, 8GB GDDR6, RGB, LHR, DLSS, Ray Tracing - GV-N306TGAMING-8GD;R$ ----
+861;Placa de Vídeo RTX 3060 Ti Vision Gigabyte NVIDIA GeForce, 8GB GDDR6, RGB, LHR, DLSS, Ray Tracing - GV-N306TVISION-8GD;R$ ----
+862;Placa de Vídeo PCYes AMD Radeon R5 230, 2GB DDR3, 64 Bits, Low Profile - PJ230R364;R$ ----
