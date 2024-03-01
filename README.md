@@ -35,7 +35,7 @@ A etapa de transformação é realizada pela função transformar_arquivo_csv, q
 - Iteração sobre os arquivos CSV, aplicando transformações nos dados.
 - Armazenamento dos DataFrames transformados em um dicionário.
 - Envio dos DataFrames transformados como uma XCom para a próxima tarefa.
-- 
+
 Carregar
 A etapa de carregamento é realizada pela função enviar_para_s3, responsável por enviar os DataFrames transformados para o Amazon S3. Seu funcionamento é resumido da seguinte forma:
 
